@@ -7,11 +7,11 @@
         <a href="https://www.digitalocean.com">
           <img alt="DigitalOcean logo" class="header-do-logo" src="https://hacktoberfest.digitalocean.com/assets/DO-light-logo-fdb58b299fac857103d1466318e6936c1389094134ea35ae1b98c91a1be87d48.svg">
         </a>
-&nbsp&nbsp+&nbsp&nbsp
++
         <a href="/intel.pdf" download="">
           <img alt="Intel logo" class="header-intel-logo" src="https://hacktoberfest.digitalocean.com/assets/intel-light-logo-99051e849bd682960174271f84934585145aa5edcadd7b6961c06028388ba1b2.svg">
         </a>
-&nbsp&nbsp+&nbsp&nbsp
++
         <a href="https://github.com/forem/forem">
           <img alt="DEV logo" class="header-dev-logo" src="https://hacktoberfest.digitalocean.com/assets/dev-light-logo-f97e147f20a5643bafada9325ffc0c858c2372dc770113a30db9b1ebac4d66af.svg">
         </a>
