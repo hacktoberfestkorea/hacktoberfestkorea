@@ -1,7 +1,9 @@
 site_name: Hacktoberfest Korea
+copyright: This is korean fan page of Hacktoberfest
 
 theme:
   name: material
+  language: kr
 
 nav:
   - Home: index.md
