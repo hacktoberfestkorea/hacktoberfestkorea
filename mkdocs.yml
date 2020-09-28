@@ -2,3 +2,6 @@ site_name: Hacktoberfest Korea
 
 theme:
   name: material
+
+nav:
+  - Home: index.md
