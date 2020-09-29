@@ -14,6 +14,8 @@
           <img alt="DEV logo" class="header-dev-logo" src="https://hacktoberfest.digitalocean.com/assets/dev-light-logo-f97e147f20a5643bafada9325ffc0c858c2372dc770113a30db9b1ebac4d66af.svg">
         </a>
       </div>
+      
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/eqSCunKweu8' frameborder='0' allowfullscreen></iframe></div>
 
 ## 행사 내용
 
