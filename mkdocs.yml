@@ -7,3 +7,6 @@ theme:
 
 nav:
   - Home: index.md
+
+markdown_extensions:
+  - pyembed.markdown
