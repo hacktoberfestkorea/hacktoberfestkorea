@@ -9,4 +9,4 @@ nav:
   - Home: index.md
 
 markdown_extensions:
-  - pyembed.markdown
+  - attr_list
