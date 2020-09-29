@@ -15,8 +15,6 @@
           <img alt="DEV logo" class="header-dev-logo" src="https://hacktoberfest.digitalocean.com/assets/dev-light-logo-f97e147f20a5643bafada9325ffc0c858c2372dc770113a30db9b1ebac4d66af.svg">
         </a>
       </div>
-      
-[!embed](https://www.youtube.com/watch?v=qr0IeoCfaOU)
 
 ## 행사 내용
 
