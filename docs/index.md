@@ -1,21 +1,23 @@
 ![hacktoberfest full logo](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)
 
-<center> <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
-[해킹 시작하기](https://hacktoberfest.digitalocean.com/login){: .md-button .md-button--primary }
-
-  <div class="presented-by">
-        <p>Presented by</p>
-        <a href="https://www.digitalocean.com">
-          <img alt="DigitalOcean logo" class="header-do-logo" src="https://hacktoberfest.digitalocean.com/assets/DO-light-logo-fdb58b299fac857103d1466318e6936c1389094134ea35ae1b98c91a1be87d48.svg">
-        </a> + 
-        <a href="/intel.pdf" download="">
-          <img alt="Intel logo" class="header-intel-logo" src="https://hacktoberfest.digitalocean.com/assets/intel-light-logo-99051e849bd682960174271f84934585145aa5edcadd7b6961c06028388ba1b2.svg">
-        </a> + 
-        <a href="https://github.com/forem/forem">
-          <img alt="DEV logo" class="header-dev-logo" src="https://hacktoberfest.digitalocean.com/assets/dev-light-logo-f97e147f20a5643bafada9325ffc0c858c2372dc770113a30db9b1ebac4d66af.svg">
-        </a>
-      </div>
+<center>
+   <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
+   [해킹 시작하기](https://hacktoberfest.digitalocean.com/login){: .md-button .md-button--primary }
+   <div class="presented-by">
+      <p>Presented by</p>
+      <a href="https://www.digitalocean.com">
+      <img alt="DigitalOcean logo" class="header-do-logo" src="https://hacktoberfest.digitalocean.com/assets/DO-light-logo-fdb58b299fac857103d1466318e6936c1389094134ea35ae1b98c91a1be87d48.svg">
+      </a> + 
+      <a href="/intel.pdf" download="">
+      <img alt="Intel logo" class="header-intel-logo" src="https://hacktoberfest.digitalocean.com/assets/intel-light-logo-99051e849bd682960174271f84934585145aa5edcadd7b6961c06028388ba1b2.svg">
+      </a> + 
+      <a href="https://github.com/forem/forem">
+      <img alt="DEV logo" class="header-dev-logo" src="https://hacktoberfest.digitalocean.com/assets/dev-light-logo-f97e147f20a5643bafada9325ffc0c858c2372dc770113a30db9b1ebac4d66af.svg">
+      </a>
+   </div>
 </center>
+
+[!embed](https://www.youtube.com/watch?v=QQKVzZpXTpQ
 
 ## 행사 내용
 
