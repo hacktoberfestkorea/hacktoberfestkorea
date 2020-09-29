@@ -5,7 +5,6 @@ theme:
   name: material
   language: kr
   palette:
-    scheme: slate
     primary: deep purple
   favicon: assets/favicon.png
 
