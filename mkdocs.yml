@@ -1,0 +1,16 @@
+site_name: Hacktoberfest Korea
+copyright: This is korean fan page of Hacktoberfest
+
+theme:
+  name: material
+  language: kr
+  palette:
+    scheme: default
+    primary: deep purple
+  favicon: assets/favicon.png
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - attr_list
