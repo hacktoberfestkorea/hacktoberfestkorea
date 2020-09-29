@@ -7,5 +7,5 @@ Hacktoberfest Korea site
 
 facebook 'Hacktoberfest Korea' 그룹에서 정보 공유중입니다.
 
-[![facebook - hactoberfest korea]: http://www.google.com
-[![hactoberfest korea]: http://www.google.com
+[Facebook - hactoberfest korea](https://www.facebook.com/groups/788404381916128/) </br>
+[Hactoberfest Korea](http://www.hacktoberfestkorea.com/)
