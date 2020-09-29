@@ -1,6 +1,6 @@
 ![hacktoberfest full logo](https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg)
 
-# Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다!
+<center> <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
 [해킹 시작하기](https://hacktoberfest.digitalocean.com/login){: .md-button .md-button--primary }
 
   <div class="presented-by">
@@ -15,6 +15,7 @@
           <img alt="DEV logo" class="header-dev-logo" src="https://hacktoberfest.digitalocean.com/assets/dev-light-logo-f97e147f20a5643bafada9325ffc0c858c2372dc770113a30db9b1ebac4d66af.svg">
         </a>
       </div>
+</center>
 
 ## 행사 내용
 
