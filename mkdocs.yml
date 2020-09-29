@@ -14,6 +14,3 @@ nav:
 
 markdown_extensions:
   - attr_list
-
-markdown_extensions:
-  - pyembed.markdown
