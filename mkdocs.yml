@@ -8,6 +8,7 @@ theme:
     scheme: default
     primary: deep purple
   favicon: assets/favicon.png
+  custom_dir: 'theme'
 
 nav:
   - Home: index.md
