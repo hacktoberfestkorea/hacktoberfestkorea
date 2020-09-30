@@ -2,6 +2,7 @@
 
 <center>
    <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
+   <p> 이 사이트는 한국 개발자들을 위한 <b>비공식(Unofficial)</b> 사이트 입니다. </p>
    [해킹 시작하기](https://hacktoberfest.digitalocean.com/login){: .md-button .md-button--primary }
    <div class="presented-by">
       <p>Presented by</p>
@@ -33,4 +34,18 @@ Hacktoberfest®는 전세계 누구나 참여할 수 있는 행사입니다. 개
 
 Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 후에 4개의 풀리퀘스트를 작성하면 됩니다. GitHub의 퍼블릭저장소라면 어디에도 풀리퀘스트를 보내도 인정됩니다. 꼭 'Hacktoberfest'로 분류된 이슈가 아니어도 좋습니다. 만약 저장소소유자가 당신의 풀리퀘스트를 스팸이나 부적절하다고 신고할 경우 참가자격을 박탈당하게 됩니다. 올해에는 조건을 만족하는 70,000명에게만 티셔츠가 보내집니다.
 
-티셔츠에 대한 자세한 내용은 [세부사항](https://hacktoberfest.digitalocean.com/details)을 참고하세요.
+행사참여에 대한 자세한 내용은 [세부사항](https://hacktoberfest.digitalocean.com/details)을 참고하세요.
+
+## 이전 행사 참여 후기
+
+이전에 참여했던 분들중 후기를 쓰셨던 분들은 아래에 링크해 주시면 새로운 사람들이 둘러보는데 도움이 되겠습니다.
+
+- [생초보 2018년 Hacktoberfest참가 후기](https://blog.naver.com/phg98/221374231575)
+
+## 기여할 프로젝트 찾아보기
+
+저장소를 운영하시는 분들중에 참여하고자 하시는 분들은 아래에 링크해 주시면 감사하겠습니다.
+
+가능하면 한글로 된 이슈에는 "핵토버페스트"라는 한글 라벨을 붙여주시면 찾기 좋을것 같습니다.
+
+- [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) 초보자를 위한 간단한 이슈들이 있습니다.
