@@ -1,5 +1,6 @@
 site_name: Hacktoberfest Korea
 copyright: This is korean fan page of Hacktoberfest
+site_url: 'https://www.hacktoberfestkorea.com/'
 
 theme:
   name: material
