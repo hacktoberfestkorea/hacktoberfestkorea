@@ -4,11 +4,11 @@ copyright: This is korean fan page of Hacktoberfest
 theme:
   name: material
   language: kr
+  custom_dir: 'theme'
   palette:
     scheme: default
     primary: deep purple
   favicon: assets/favicon.png
-  custom_dir: 'theme'
 
 nav:
   - Home: index.md
