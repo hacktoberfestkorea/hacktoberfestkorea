@@ -2,6 +2,7 @@
 
 <center>
    <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
+   <p> 이 사이트는 한국 개발자들을 위한 <b>비공식(Unofficial)</b> 사이트 입니다. </p>
    [해킹 시작하기](https://hacktoberfest.digitalocean.com/login){: .md-button .md-button--primary }
    <div class="presented-by">
       <p>Presented by</p>
