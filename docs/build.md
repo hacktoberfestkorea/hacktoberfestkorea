@@ -66,35 +66,6 @@ mkdocs serve
 
 ## 작업환경 설정 방법 - GitHub
 
-### GitHub Actions 사용
-
-GitHub Actions를 새로 만듭니다
-
-[https://github.com/[자신의GITHUB닉네임]/hacktoberfestkorea/actions/new](https://github.com/[자신의GITHUB닉네임]/hacktoberfestkorea/actions/new)
-
-에 접속해 **set up a workflow yourself**를 클릭합니다
-
-```yml
-name: ci
-on:
-  push:
-    branches:
-      - master
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
-      - run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --force
-```
-
-이 내용을 복사하고 **Start commit**을 클릭합니다</br>
-잠시후 GitHub Actions가 작동하며 자동으로 **gh-pages** 브랜치를 생성하고,</br> 그 브랜치 안에 생성된 static page가 저장됩니다
-
 ### GitHub Pages 사용
 
 GitHub 저장소 설정에 들어갑니다
