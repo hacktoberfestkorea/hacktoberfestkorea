@@ -8,5 +8,5 @@
 
 facebook 'Hacktoberfest Korea' 그룹에서도 정보 공유중입니다.
 
-[Facebook - hactoberfest korea 그룹으로 가기](https://www.facebook.com/groups/788404381916128/?ref=share)
-
+[Facebook - hactoberfest korea 그룹으로 가기](https://www.facebook.com/groups/788404381916128/?ref=share)  
+[Official - hactoberfest(english) 사이트로 가기](https://hacktoberfest.digitalocean.com/)
