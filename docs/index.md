@@ -50,3 +50,5 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 가능하면 한글로 된 이슈에는 "핵토버페스트"라는 한글 라벨을 붙여주시면 찾기 좋을것 같습니다.
 
 - [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) 초보자를 위한 간단한 이슈들이 있습니다.
+- [LibreOffice우리말모듬의 자동교정데이터 저장소](https://github.com/libreoffice-kr/autocorr_kr) 리브레오피스의 우리말 자동교정 내용을 관리하는 저장소입니다.
+ 
