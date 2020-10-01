@@ -1,11 +1,11 @@
 site_name: Hacktoberfest Korea
 copyright: This is korean fan page of Hacktoberfest
-site_url: 'https://www.hacktoberfestkorea.com/'
+site_url: "https://www.hacktoberfestkorea.com/"
 
 theme:
   name: material
   language: kr
-  custom_dir: 'theme'
+  custom_dir: "theme"
   palette:
     scheme: default
     primary: deep purple
@@ -13,7 +13,7 @@ theme:
 
 nav:
   - Home: index.md
-  - 빌드 방법: build.md
+  - 작업환경 구성 방법: build.md
 
 markdown_extensions:
   - attr_list
