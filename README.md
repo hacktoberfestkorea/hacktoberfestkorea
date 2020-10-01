@@ -1,11 +1,12 @@
 # hacktoberfestkorea
 
-Hacktoberfest Korea site
+## [Hacktoberfest Korea site 클릭!](https://www.hacktoberfestkorea.com/)
 
-한국어로 Hactoberfest를 소개하는 사이트를 만드려고 합니다.
-개발자 분들의 많은 도움을 부탁드립니다.
+한국어로 Hactoberfest를 소개하고 정보를 나누는 사이트입니다.
+가급적 초보자 분들의 참여를 유도하고자 합니다.
+개발자 분들의 많은 참여를 부탁드립니다.
 
-facebook 'Hacktoberfest Korea' 그룹에서 정보 공유중입니다.
+facebook 'Hacktoberfest Korea' 그룹에서도 정보 공유중입니다.
 
-[Facebook - hactoberfest korea](https://www.facebook.com/groups/788404381916128/) </br>
-[Hactoberfest Korea](http://www.hacktoberfestkorea.com/)
+[Facebook - hactoberfest korea 그룹으로 가기](https://www.facebook.com/groups/788404381916128/?ref=share)
+
