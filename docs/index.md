@@ -10,7 +10,7 @@
       <img alt="DigitalOcean logo" class="header-do-logo" src="https://hacktoberfest.digitalocean.com/assets/DO-light-logo-fdb58b299fac857103d1466318e6936c1389094134ea35ae1b98c91a1be87d48.svg">
       </a> + 
       <a href="/intel.pdf" download="">
-      <img alt="Intel logo" class="header-intel-logo" src="https://hacktoberfest.digitalocean.com/assets/intel-light-logo-99051e849bd682960174271f84934585145aa5edcadd7b6961c06028388ba1b2.svg">
+      <img alt="Intel logo" class="header-intel-logo" src="https://hacktoberfest.digitalocean.com/assets/intel-light-logo-6203fc1df6b42f669b34fb3a0e2bdeeb30c97746ba731194e2a15adb7799ac08.svg">
       </a> + 
       <a href="https://github.com/forem/forem">
       <img alt="DEV logo" class="header-dev-logo" src="https://hacktoberfest.digitalocean.com/assets/dev-light-logo-f97e147f20a5643bafada9325ffc0c858c2372dc770113a30db9b1ebac4d66af.svg">
@@ -42,7 +42,6 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 
 - [생초보 2018년 Hacktoberfest참가 후기](https://blog.naver.com/phg98/221374231575)
 
-
 ## 기여할 프로젝트 찾아보기
 
 저장소를 운영하시는 분들중에 참여하고자 하시는 분들은 아래에 링크해 주시면 감사하겠습니다.
@@ -51,4 +50,3 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 
 - [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) 초보자를 위한 간단한 이슈들이 있습니다.
 - [LibreOffice우리말모듬의 자동교정데이터 저장소](https://github.com/libreoffice-kr/autocorr_kr) 리브레오피스의 우리말 자동교정 내용을 관리하는 저장소입니다.
- 
