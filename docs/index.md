@@ -55,6 +55,7 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 
 - [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) 초보자를 위한 간단한 이슈들이 있습니다.
 - [LibreOffice우리말모듬의 자동교정데이터 저장소](https://github.com/libreoffice-kr/autocorr_kr) 리브레오피스의 우리말 자동교정 내용을 관리하는 저장소입니다.
+- [p5sample](https://github.com/phg98/phg98p5sample) p5.js를 사용한 기하학 패턴 만들기. 실행화면은 [여기를 눌러보세요](https://phg98.github.io/phg98p5sample/)
 
 ## 관련 링크
 
