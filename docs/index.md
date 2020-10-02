@@ -3,13 +3,14 @@
 <center>
    <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
    <p> 이 사이트는 한국 개발자들을 위한 <b>비공식(Unofficial)</b> 사이트 입니다. </p>
-   [해킹 시작하기](https://hacktoberfest.digitalocean.com/login){: .md-button .md-button--primary }
+   <p> 행사에 등록하시려면 아래 공식 홈페이지로 가셔서 'Start Hacking'버튼을 누르세요. </p>
+   [공식 홈페이지로 가기](https://hacktoberfest.digitalocean.com/){: .md-button .md-button--primary }
    <div class="presented-by">
       <p>Presented by</p>
       <a href="https://www.digitalocean.com">
       <img alt="DigitalOcean logo" class="header-do-logo" src="https://hacktoberfest.digitalocean.com/assets/DO-light-logo-fdb58b299fac857103d1466318e6936c1389094134ea35ae1b98c91a1be87d48.svg">
       </a> + 
-      <a href="/intel.pdf" download="">
+      <a href="https://hacktoberfest.digitalocean.com/intel.pdf" download="">
       <img alt="Intel logo" class="header-intel-logo" src="https://hacktoberfest.digitalocean.com/assets/intel-light-logo-99051e849bd682960174271f84934585145aa5edcadd7b6961c06028388ba1b2.svg">
       </a> + 
       <a href="https://github.com/forem/forem">
@@ -51,4 +52,8 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 
 - [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) 초보자를 위한 간단한 이슈들이 있습니다.
 - [LibreOffice우리말모듬의 자동교정데이터 저장소](https://github.com/libreoffice-kr/autocorr_kr) 리브레오피스의 우리말 자동교정 내용을 관리하는 저장소입니다.
+
+## 관련 링크
+
+- 이 사이트의 Github 저장소 : [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) 
  
