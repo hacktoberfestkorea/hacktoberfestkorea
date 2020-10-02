@@ -22,31 +22,31 @@ fork가 끝나면 좌측상단에 저장소 이름이 표시됩니다. (phg9898�
 ## 내용 수정하기
 fork된 저장소에서 수정할 파일을 찾아 클릭합니다.  
 파일내용이 표시되면 우측 상단의 연필 아이콘을 클릭하면 수정이 가능합니다.  
-![edit](img/edit.png)  
+![edit](img/edit.PNG)  
 
 오자를 수정하거나 링크를 추가합니다.  
 링크를 추가할 때에는 기존의 링크 형식을 보고 동일한 포맷으로 적으면 됩니다.  
 수정을 완료한 후에는저장하기 위해 제일 아래의 'Commit changes'버튼을 누릅니다.  
-![commit](img/commit.png)  
+![commit](img/commit.PNG)  
 
 수정된 내용은 본인의 계정에 저장된 것입니다. 이 수정사항을 원본 프로젝트에 반영하려면 풀리퀘스트(Pull Request)를 만들어야 합니다.
 
 ## 풀리퀘스트 만들기
 'Pull Requests'탭을 클릭합니다.  
-![pr](img/pr.png)  
+![pr](img/pr.PNG)  
 
 'New pull request' 버튼을 클릭합니다.  
-![new_pr](img/new_pr.png)  
+![new_pr](img/new_pr.PNG)  
 
 이제 풀리퀘스트가 만들어졌습니다. 원본 프로젝트의 관리자가 승인하면 반영됩니다.  
 
 ## 승인을 기다리는 동안에...
 내 계정에서도 웹사이트를 띄울 수 있습니다.  
 'Settings'탭을 누릅니다.  
-![settings](img/settings.png)  
+![settings](img/settings.PNG)  
 
 중간쯤의 'Github Pages'항목에서 'Branch:Master'버튼을 누르고 'gh-pages'를 선택한후 'save'버튼을 누릅니다.  
-![gh-pages](img/gh-pages.png)  
+![gh-pages](img/gh-pages.PNG)  
 
 1분정도 기다리면 'Your site is published at https://<계정이름>.github.io/hacktoberfestkorea'라고 표시됩니다.  
 링크부분을 클릭하면 웹사이트가 표시됩니다.  
