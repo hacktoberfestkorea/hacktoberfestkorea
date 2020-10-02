@@ -13,6 +13,7 @@ theme:
 
 nav:
   - Home: index.md
+  - 초보자용 가이드: beginners_guide.md
 
 markdown_extensions:
   - attr_list
