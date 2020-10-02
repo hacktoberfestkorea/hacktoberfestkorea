@@ -3,14 +3,15 @@
 <center>
    <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
    <p> 이 사이트는 한국 개발자들을 위한 <b>비공식(Unofficial)</b> 사이트 입니다. </p>
-   [해킹 시작하기](https://hacktoberfest.digitalocean.com/login){: .md-button .md-button--primary }
+   <p> 행사에 등록하시려면 아래 공식 홈페이지로 가셔서 'Start Hacking'버튼을 누르세요. </p>
+   [공식 홈페이지로 가기](https://hacktoberfest.digitalocean.com/){: .md-button .md-button--primary }
    <div class="presented-by">
       <p>Presented by</p>
       <a href="https://www.digitalocean.com">
       <img alt="DigitalOcean logo" class="header-do-logo" src="https://hacktoberfest.digitalocean.com/assets/DO-light-logo-fdb58b299fac857103d1466318e6936c1389094134ea35ae1b98c91a1be87d48.svg">
       </a> + 
-      <a href="/intel.pdf" download="">
-      <img alt="Intel logo" class="header-intel-logo" src="https://hacktoberfest.digitalocean.com/assets/intel-light-logo-99051e849bd682960174271f84934585145aa5edcadd7b6961c06028388ba1b2.svg">
+      <a href="https://hacktoberfest.digitalocean.com/intel.pdf" download="">
+      <img alt="Intel logo" class="header-intel-logo" src="https://hacktoberfest.digitalocean.com/assets/intel-light-logo-6203fc1df6b42f669b34fb3a0e2bdeeb30c97746ba731194e2a15adb7799ac08.svg">
       </a> + 
       <a href="https://github.com/forem/forem">
       <img alt="DEV logo" class="header-dev-logo" src="https://hacktoberfest.digitalocean.com/assets/dev-light-logo-f97e147f20a5643bafada9325ffc0c858c2372dc770113a30db9b1ebac4d66af.svg">
@@ -40,8 +41,11 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 
 이전에 참여했던 분들중 후기를 쓰셨던 분들은 아래에 링크해 주시면 새로운 사람들이 둘러보는데 도움이 되겠습니다.
 
-- [생초보 2018년 Hacktoberfest참가 후기](https://blog.naver.com/phg98/221374231575)
-
+- '코드리뷰, 좀 쉬운 방법은 없을까? 블로그'의 2018년 [Hacktoberfest참가 후기](https://blog.naver.com/phg98/221374231575)
+- '플라네타리움 엔지니어링 스낵'의 2019년 [저희와 함께 Hacktoberfest에 참가해봅시다!](https://snack.planetarium.dev/kor/2019/09/hacktoberfest/)
+- '허원철의 개발 블로그'의 2019년 [2019 컨트리뷰톤 (feat. Armeria)](https://heowc.dev/2019/11/04/2019-contributon-feat-armeria/)
+- '매일 성장하기 블로그'의 2018년 [Hacktoberfest 2018 후기](https://edykim.com/ko/post/hacktoberfest-2018/)
+- 'amoseui 블로그'의 2018년 [Hacktoberfest 2018 후기](https://blog.amoseui.com/posts/hacktoberfest-2018)
 
 ## 기여할 프로젝트 찾아보기
 
@@ -50,3 +54,9 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 가능하면 한글로 된 이슈에는 "핵토버페스트"라는 한글 라벨을 붙여주시면 찾기 좋을것 같습니다.
 
 - [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) 초보자를 위한 간단한 이슈들이 있습니다.
+- [LibreOffice우리말모듬의 자동교정데이터 저장소](https://github.com/libreoffice-kr/autocorr_kr) 리브레오피스의 우리말 자동교정 내용을 관리하는 저장소입니다.
+- [p5sample](https://github.com/phg98/phg98p5sample) p5.js를 사용한 기하학 패턴 만들기. 실행화면은 [여기를 눌러보세요](https://phg98.github.io/phg98p5sample/)
+
+## 관련 링크
+
+- 이 사이트의 Github 저장소 : [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea)
