@@ -13,6 +13,7 @@ theme:
 
 nav:
   - Home: index.md
+  - 작업환경 구성 방법: build.md
 
 markdown_extensions:
   - attr_list
