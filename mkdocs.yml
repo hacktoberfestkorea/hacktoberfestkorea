@@ -15,6 +15,10 @@ nav:
   - Home: index.md
   - 초보자용 가이드: beginners_guide.md
   - 작업환경 구성 방법: build.md
+  - 자주 묻는 질문: faq.md
 
 markdown_extensions:
   - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
