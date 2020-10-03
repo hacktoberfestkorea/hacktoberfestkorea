@@ -1,8 +1,8 @@
-# hacktoberfest: 스팸 관련 업데이트
+# hacktoberfest 스팸 관련 업데이트
 
 **! 이 페이지는 https://hacktoberfest.digitalocean.com/hacktoberfest-update 에서 변역되었습니다.**
 
-모두 오픈소스 커뮤니티의 기념 및<!-- is this the right word? --> 육성을 위해 Hacktoberfest에 참여해 주셔서 감사합니다.
+모두 오픈소스 커뮤니티의 기념 및 육성을 위해 Hacktoberfest에 참여해 주셔서 감사합니다.
 
 GitHub에 있는 친구들과 상의 후, 저장소에 들어오는 스팸 기여를 대폭 줄일수 있는 방안을 만들었습니다. 저장소의 hacktoberfest 참여 유/무를 선택할수 있도록 하는 요청이 가장 많아, **hacktoberfest을(를) 선택적으로 참여하는 저장소에서만 진행할수 있게 하기로 결정했습니다.**
 
@@ -37,6 +37,6 @@ hacktoberfest-accepted로 분류하기
 참여 저장소를 찾으려면 Hacktoberfest 웹사이트를 확인하거나, github에서 'hacktoberfest'토픽을 확인하시기 바랍니다.
 질문, 건의등은 (영어)hacktoberfest@digitialocean.com로 연락 주시기 바랍니다.
 
-정말 뭐가 만들어질지 기대되네요! <!-- this is not really refering to the reader itself, but the overall community as a whole. i think it works still. -->
+정말 뭐가 만들어질지 기대되네요! 
 
 \- Hacktoberfest 팀으로부터.
