@@ -28,7 +28,7 @@ Hacktoberfest®는 전세계 누구나 참여할 수 있는 행사입니다. 개
 
 - Hacktoberfest는 **전세계 누구나 참여가능한** 행사 입니다 .
 
-- **Github에 호스팅된 어떠한 공개 저장소/프로젝트**에 Pull Request 를 보내면 인정됩니다.
+- **Github에 호스팅된 공개 저장소중에서 hacktoberfest라는 topic을 가진 저장소**에 Pull Request 를 보내면 인정됩니다.[(10.3 업데이트)](hacktoberfest_spam_update.md)
 
 - 10월 1일부터 10월 31일까지 보내진 Pull Request 만 인정됩니다.
 
