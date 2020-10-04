@@ -17,13 +17,14 @@
 수정을 완료한 후에는 저장 및 반영요청 하기 위해 제일 아래의 'Propose changes'버튼을 누릅니다.  
 ![commit](img/commit.png)  
 
-그러면 뭔가 복잡한 화면이 나옵니다. 그냥 'Create pull request' 초록색 버튼을 클릭합니다.  
-![create_pull_request](img/create_pull_request.png)  
+그러면 뭔가 복잡한 화면이 나옵니다. 수정내용을 한번 더 확인하는 화면입니다. 그냥 'Create pull request' 초록색 버튼을 클릭하세요.  
+![create_pull_request1](img/create_pull_request1.png)  
 
-그러면 비슷하게 복잡한 화면이 나옵니다. 그냥 'New pull request' 초록색 버튼을 다시 클릭합니다.  
+그러면 또다시 복잡한 화면이 나옵니다. 변경요청을 발송하는 화면입니다. 그냥 'Create pull request' 초록색 버튼을 클릭합니다.  
 ![new_pr](img/new_pr.png)  
 
-이제 변경요청(풀리퀘스트Pull Request)가 만들어졌습니다. 원본 프로젝트의 관리자가 승인하면 반영됩니다.  
+이제 변경요청(풀리퀘스트Pull Request)가 만들어졌습니다. 기다리시면 원본 프로젝트의 관리자가 승인하면 반영됩니다.  
+하단의 Close Pull Request버튼을 누르지 마세요. 그냥 화면 닫으시면 됩니다.
 
 ## 다음 단계
 이 방법은 간단하지만 본인의 저장소에 코드가 남지 않아서 매번 원본저장소에 와서 고쳐야 합니다.
