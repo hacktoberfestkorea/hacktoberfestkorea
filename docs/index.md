@@ -32,8 +32,7 @@ Hacktoberfest®는 전세계 누구나 참여할 수 있는 행사입니다. 개
 - 10월 1일부터 10월 31일까지 보내진 Pull Request 만 인정됩니다.
 
 ## 행사 규칙
-
-Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 후에 4개의 풀리퀘스트를 작성하면 됩니다. GitHub의 퍼블릭저장소라면 어디에도 풀리퀘스트를 보내도 인정됩니다. 꼭 'Hacktoberfest'로 분류된 이슈가 아니어도 좋습니다. 만약 저장소소유자가 당신의 풀리퀘스트를 스팸이나 부적절하다고 신고할 경우 참가자격을 박탈당하게 됩니다. 올해에는 조건을 만족하는 70,000명에게만 티셔츠가 보내집니다.  
+Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 후에 4개의 풀리퀘스트를 작성하면 됩니다. ~~GitHub의 퍼블릭저장소라면 어디에도 풀리퀘스트를 보내도 인정됩니다.~~( **업데이트! : 스팸PR을 방지하기 위해 'hacktoberfest'라는 topic이 붙어있는 저장소만 인정됩니다. 자세한 내용은 [스팸 PR 관련 공지](https://www.hacktoberfestkorea.com/hacktoberfest_spam_update/)를 참고 하세요.** ) 꼭 'Hacktoberfest'로 분류된 이슈가 아니어도 좋습니다. ()만약 저장소소유자가 당신의 풀리퀘스트를 스팸이나 부적절하다고 신고할 경우 참가자격을 박탈당하게 됩니다. 올해에는 조건을 만족하는 70,000명에게만 티셔츠가 보내집니다.  
 행사참여에 대한 자세한 내용은 [세부사항](https://hacktoberfest.digitalocean.com/details)을 참고하세요.
 
 ## 이전 행사 참여 후기
@@ -48,12 +47,10 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 
 ## 한글 프로젝트
 
-저장소를 운영하시는 분들중에 참여하고자 하시는 분들은 아래에 링크해 주시면 감사하겠습니다.  
-가능하면 한글로 된 이슈에는 "핵토버페스트"라는 한글 라벨을 붙여주시면 찾기 좋을것 같습니다.
-
 - [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) 초보자를 위한 간단한 이슈들이 있습니다.
 - [LibreOffice우리말모듬의 자동교정데이터 저장소](https://github.com/libreoffice-kr/autocorr_kr) 리브레오피스의 우리말 자동교정 내용을 관리하는 저장소입니다.
 - [p5sample](https://github.com/phg98/phg98p5sample) p5.js를 사용한 기하학 패턴 만들기. 실행화면은 [여기를 눌러보세요](https://phg98.github.io/phg98p5sample/)
+- 저장소를 운영하시는 분들중에 참여하고자 하시는 분들은 여기에 링크해 주시면 감사하겠습니다. 저장소에 ''hacktoberfest'라는 topic을 꼭 넣어주시구요.([참고 : 스팸 PR 관련 공지](https://www.hacktoberfestkorea.com/hacktoberfest_spam_update/)) 가능하면 한글로 된 이슈에는 "핵토버페스트"라는 한글 라벨을 붙여주시면 찾기 좋을것 같습니다. 응원합니다!
 
 ## 영문 초보자용 프로젝트
 
