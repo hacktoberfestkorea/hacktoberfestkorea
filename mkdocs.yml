@@ -14,6 +14,7 @@ theme:
 nav:
   - Home: index.md
   - 스팸 PR 관련 공지: hacktoberfest_spam_update.md
+  - 초초초보자용 가이드: beginners_guide.md
   - 초보자용 가이드: beginners_guide.md
   - 작업환경 구성 방법: build.md
   - 자주 묻는 질문: faq.md
