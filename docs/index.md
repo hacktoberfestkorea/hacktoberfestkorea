@@ -45,14 +45,23 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 - '허원철의 개발 블로그'의 2019년 [2019 컨트리뷰톤 (feat. Armeria)](https://heowc.dev/2019/11/04/2019-contributon-feat-armeria/)
 - '매일 성장하기 블로그'의 2018년 [Hacktoberfest 2018 후기](https://edykim.com/ko/post/hacktoberfest-2018/)
 - 'amoseui 블로그'의 2018년 [Hacktoberfest 2018 후기](https://blog.amoseui.com/posts/hacktoberfest-2018)
-- _기존 참여 후기가 있으신 분은 여기에 링크해 주세요. 방법은 [초보자용 가이드](beginners_guide.md)를 참고하세요. 5분이면 됩니다!_
+- _기존에 참여하셨었나요? 후기를 링크해서 공유해주세요! 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요._
 
 ## 한글 프로젝트
 
 - [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) 초보자를 위한 간단한 이슈들이 있습니다.
 - [LibreOffice우리말모듬의 자동교정데이터 저장소](https://github.com/libreoffice-kr/autocorr_kr) 리브레오피스의 우리말 자동교정 내용을 관리하는 저장소입니다.
 - [p5sample](https://github.com/phg98/phg98p5sample) p5.js를 사용한 기하학 패턴 만들기. 실행화면은 [여기를 눌러보세요](https://phg98.github.io/phg98p5sample/)
-- 저장소를 운영하시는 분들중에 참여하고자 하시는 분들은 [여기](index.md)에 링크해 주시면 감사하겠습니다. 저장소에 ''hacktoberfest'라는 topic을 꼭 넣어주시구요.([참고 : 스팸 PR 관련 공지](https://www.hacktoberfestkorea.com/hacktoberfest_spam_update/)) 가능하면 한글로 된 이슈에는 "핵토버페스트"라는 한글 라벨을 붙여주시면 찾기 좋을것 같습니다. 응원합니다!
+- _저장소를 운영하시는 분들중에 참여하고자 하시는 분들은 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 저장소에 ''hacktoberfest'라는 topic을 꼭 넣어주시구요.([참고 : 스팸 PR 관련 공지](https://www.hacktoberfestkorea.com/hacktoberfest_spam_update/)) 응원합니다!_
+<!-- 가능하면 한글로 된 이슈에는 "핵토버페스트"라는 한글 라벨도 붙여주시면 찾기 좋을것 같습니다. -->
+<!-- 저장소 운영하시는 분들은 다들 잘 아실테니까 설명 필요없을것 같은데, 혹시 초보자인데 등록하시려면 아래 내용대로만 하면 됩니다. -->
+<!-- 기존 내용중 한 줄 복사하여 마지막줄에 붙여넣기 하신후 내용을 본인것에 맞게 수정해 주세요 -->
+<!-- 수정이 끝나면 제일 아래에 Propose changes라는 녹색 버튼을 꾹 누르세요! -->
+<!-- 수정하신 후에는 아래에 Propose changes라는 녹색 버튼을 꾹 누르세요! -->
+<!-- 그럼 뭔가 복잡한 화면이 나오는데 또 다시 'Create Pull Request'라는 녹색 버튼을 꾹 누르세요! -->
+<!-- 그럼 더 복잡한 화면이 나오는데.. 또 다시 'Create Pull Request'라는 녹색 버튼을 꾹 누르세요! -->
+<!-- 그럼 뭔가 더 해야할 것 같은 화면이 나오는데, 안해도 됩니다. 사이트관리자가 승인하면 게시되구요, 링크가 깨진다던지 문제가 있다면 연락이 옵니다. -->
+
 
 ## 영문 초보자용 프로젝트
 
@@ -60,11 +69,19 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 [공식홈페이지](https://hacktoberfest.digitalocean.com/)에서 더 많은 프로젝트를 찾을 수 있습니다.
 
 - [super-newbie coder's GUIDE TO Hacktoberfest](https://emmalearnscode.github.io/guide-to-HF/index.html) : html과 css파일만 추가하면 된다고 하네요.
+- _좋은 영문 초보자용 프로젝트를 찾으셨나요? 링크해서 공유해주세요! 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요._
+<!-- 기존 내용중 한 줄 복사하여 마지막줄에 붙여넣기 하신후 내용을 본인것에 맞게 수정해 주세요 -->
+<!-- 수정이 끝나면 제일 아래에 Propose changes라는 녹색 버튼을 꾹 누르세요! -->
+<!-- 수정하신 후에는 아래에 Propose changes라는 녹색 버튼을 꾹 누르세요! -->
+<!-- 그럼 뭔가 복잡한 화면이 나오는데 또 다시 'Create Pull Request'라는 녹색 버튼을 꾹 누르세요! -->
+<!-- 그럼 더 복잡한 화면이 나오는데.. 또 다시 'Create Pull Request'라는 녹색 버튼을 꾹 누르세요! -->
+<!-- 그럼 뭔가 더 해야할 것 같은 화면이 나오는데, 안해도 됩니다. 사이트관리자가 승인하면 게시되구요, 링크가 깨진다던지 문제가 있다면 연락이 옵니다. -->
 
 ## 현재 참여자 리스트 
 - [phg98](https://blog.naver.com/phg98/222101443689)
-- 참여하시는 분들은 참여의사를 표시한 불로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요.
-<!-- 수정하신 후에는 아래에 Propose changes라는 녹색 버튼을 꾹 누르세요! -->
+- 참여하시는 분들은 참여의사를 표시한 불로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요.  5분이면 됩니다!
+<!-- 기존 내용중 한 줄 복사하여 마지막줄에 붙여넣기 하신후 내용을 본인것에 맞게 수정해 주세요 -->
+<!-- 수정이 끝나면 제일 아래에 Propose changes라는 녹색 버튼을 꾹 누르세요! -->
 <!-- 그럼 뭔가 복잡한 화면이 나오는데 또 다시 'Create Pull Request'라는 녹색 버튼을 꾹 누르세요! -->
 <!-- 그럼 더 복잡한 화면이 나오는데.. 또 다시 'Create Pull Request'라는 녹색 버튼을 꾹 누르세요! -->
 <!-- 그럼 뭔가 더 해야할 것 같은 화면이 나오는데, 안해도 됩니다. 사이트관리자가 승인하면 게시되구요, 링크가 깨진다던지 문제가 있다면 연락이 옵니다. -->
