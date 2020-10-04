@@ -1,4 +1,4 @@
-# hacktoberfest 스팸 관련 업데이트
+# 스팸 PR 관련 공지
 
 **! 이 페이지는 https://hacktoberfest.digitalocean.com/hacktoberfest-update 에서 변역되었습니다.**
 
@@ -14,13 +14,13 @@ GitHub에 있는 친구들과 상의 후, 저장소에 들어오는 스팸 기�
 다시 요약하자면:
 
 ```
-풀리퀘스트 해당 조건:
-hacktoberfest 토픽의 해당되는 저장소에 올려짐, 그리고
-10월에 올려짐, 그리고 {
-  풀리퀘스트가 merge되거나,
-  풀리퀘스트가 "hacktoberfest-accepted"로 분류되거나, 
-  풀리퀘스트가 승인됨
-}
+PRs count if:
+Submitted in a repo with the hacktoberfest topic AND
+during the month of October AND (
+  The PR is merged OR
+  The PR is labelled as hacktoberfest-accepted by a maintainer OR
+  The PR has been approved
+)
 ```
 
 **저장소 관리자에게:** 
@@ -30,7 +30,7 @@ hacktoberfest 토픽의 해당되는 저장소에 올려짐, 그리고
 ![토픽 추가](https://hacktoberfest-assets.nyc3.cdn.digitaloceanspaces.com/hacktoberfest-eligible-gif.gif)
 
 hacktoberfest-accepted로 분류하기
-![토픽 추가](https://hacktoberfest-assets.nyc3.cdn.digitaloceanspaces.com/hacktoberfest-eligible-gif.gif)
+![풀리퀘스트 분류](https://hacktoberfest-assets.nyc3.cdn.digitaloceanspaces.com/hacktoberfest-label-add-gif-min.gif)
 
 모든 이벤트 주최자 및 기여자들에 감사합니다.
 여태까지 만들어진 멋진 기여와, 앞으로도 만들어질 기여도를 생각해니 기대되네요.
