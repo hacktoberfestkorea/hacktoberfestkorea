@@ -60,6 +60,10 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 
 - [super-newbie coder's GUIDE TO Hacktoberfest](https://emmalearnscode.github.io/guide-to-HF/index.html) : html과 css파일만 추가하면 된다고 하네요.
 
+## 현재 참여자 리스트 (참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요)
+- [phg98](https://blog.naver.com/phg98/222101443689)
+- 참여하시는 분들은 여기에 링크해 주세요. 링크하려면 [여기](index.md)를 클릭하시고 윗줄을 복사해서 붙여넣으신후에 수하시면 됩니다.
+
 ## 관련 링크
 
 - 이 사이트의 Github 저장소 : [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea)
