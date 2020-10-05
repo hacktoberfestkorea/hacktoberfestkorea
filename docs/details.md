@@ -74,7 +74,7 @@ Hacktoberfest의 가치 2항인 "즐기면서 많이, 중요한 품질"은 다�
 
 * [GitHub Training Kit(영어)](https://github.github.com/training-kit/)
 * [Understanding the GitHub Flow(영어)](https://guides.github.com/introduction/flow/)
-* An [Absolute Beginner’s Checklist(https://dev.to/cockroachlabs/an-absolute-beginner-s-checklist-for-hacktoberfest-p2k)] for Hacktoberfest
+* An [Absolute Beginner’s Checklist(영어)](https://dev.to/cockroachlabs/an-absolute-beginner-s-checklist-for-hacktoberfest-p2k) for Hacktoberfest
 * [How open source contributions can boost your career(영어)](https://opensource.com/article/19/5/how-get-job-doing-open-source)
 * [Contributor’s Guide(영어)](https://www.digitalocean.com/community/tutorials/hacktoberfest-contributor-s-guide-how-to-find-and-contribute-to-open-source-projects) to Open Source Projects
 * [How to write a good commit message(영어)](https://dev.to/chrissiemhrk/git-commit-message-5e21)
