@@ -16,6 +16,30 @@
 
 ??? "Pull Request를 완료했습니다. 언제 티셔츠를 받을 수 있나요?"
     티셔츠나 나무를 기부하는 것은 Hactoberfest를 완료한 선착순 70,000명에게 주어집니다. 저희는 더 자세한 내용을 이메일을 통해 전달해드리겠습니다.
+    
+# 참여 규칙
+??? "10월 중순부터 Hacktoberfest에 등록하여 활동을 시작했습니다. 10월 초에 생성한 Pull Request가 포함되나요?"
+    Hacktoberfest에 등록하는 시기와 관계없이 10월 1일부터 10월 31일 사이에 생성된 모든 Pull Request가 포함됩니다. 10월 1일 이전에 생성되었으나 이후에 Merge되거나, Ready for Review 마크가 부착된 Pull Request은 포함되지 않습니다.
+
+??? "자신의 저장소에 대한 Pull Request가 포함되나요?"
+    포함됩니다. 하지만 다른 저장소에 더 좋은 기여를 할 것을 권장합니다.
+
+??? "동일한 저장소에 대한 여러 Pull Request가 포함되나요?"
+    예, 각각의 Pull Request는 별도로 계산됩니다.
+
+??? "규칙은 무엇인가요?"
+    티셔츠(+ 스티커)를 받으려면 Hacktoberfest 사이트에 가입하고 10월 31일까지 GitHub에서 **hacktoberfest**태그가 있는 저장소에서 4개 이상의 Pull Request를 해야합니다. 
+    그리고 11월 1일 이전에 Pull Request가 Merge되거나 **hacktoberfest-accepted**로 라벨을 지정하거나 프로젝트 관리자에게 수락받아야 합니다.
+
+??? "Pull Request가 accept / merge 되어야만 하나요?"
+    Pull Request는 hacktoberfest태그로 분류된 저장소에서 진행되어야만 합니다.
+    챌린지에 포함되려면 Merge되거나, 저장소 관리자가 승인하거나 hacktoberfest-accepted로 라벨이 지정되어야 합니다.
+
+??? "이슈 / 커밋이 중요합니까?"
+    아닙니다. Pull Request만 계산됩니다.
+
+??? "GitHub 외부에서 이루어진 기여도 포함이 되나요?"
+    Pull Request는 GitHub에서 이루어져야만 합니다.
 
 # 배송
 
