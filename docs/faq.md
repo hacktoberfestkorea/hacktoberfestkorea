@@ -28,14 +28,14 @@
     예, 각각의 Pull Request는 별도로 계산됩니다.
 
 ??? "규칙은 무엇인가요?"
-    티셔츠(+ 스티커)를 받으려면 Hacktoberfest 사이트에 가입하고 10월 31일까지 GitHub에서 **hacktoberfest**태그가 있는 저장소에서 4개 이상의 Pull Request를 해야합니다. 
-    그리고 11월 1일 이전에 Pull Request가 Merge되거나 **hacktoberfest-accepted**로 라벨을 지정하거나 프로젝트 관리자에게 수락받아야 합니다.
+    티셔츠(+ 스티커)를 받으려면 Hacktoberfest 사이트에 가입하고 10월 31일까지 GitHub에서 **hacktoberfest** 토픽이 있는 저장소에서 4개 이상의 Pull Request를 올려야합니다.
+    추가로, hacktoberfest 토픽이 없는 프로젝트여도 Pull Request에 **hacktoberfest-accepted** 라벨이 지정되면 적합하게 카운트됩니다. 풀리퀘스트는 11월 1일 이전에 Merge되거나  Accept되어야 합니다.
 
 ??? "Pull Request가 accept / merge 되어야만 하나요?"
     Pull Request는 hacktoberfest태그로 분류된 저장소에서 진행되어야만 합니다.
     챌린지에 포함되려면 Merge되거나, 저장소 관리자가 승인하거나 hacktoberfest-accepted로 라벨이 지정되어야 합니다.
 
-??? "이슈 / 커밋이 중요합니까?"
+??? "이슈 / 커밋도 포함되나요?"
     아닙니다. Pull Request만 계산됩니다.
 
 ??? "GitHub 외부에서 이루어진 기여도 포함이 되나요?"
