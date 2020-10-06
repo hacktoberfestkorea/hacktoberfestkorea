@@ -7,6 +7,7 @@
 개발자 분들의 많은 참여를 부탁드립니다.
 
 풀리퀘스트(Pull Request)를 만드는데 익숙하지 않은 초보자분은 아래 문서를 보세요.  
+[초초초초보자 가이드](docs/super_beginners_guide.md)  
 [초보자 가이드](docs/beginners_guide.md)
 
 facebook 'Hacktoberfest Korea' 그룹에서도 정보 공유중입니다.
