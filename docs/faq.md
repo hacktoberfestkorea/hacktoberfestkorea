@@ -9,7 +9,7 @@
 ??? "어떻게 시작해야 하나요?"
     우선 [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com)에 가입해주세요. 그리고 4개의 Pull Request를 GitHub 공개 저장소에 제출해주세요. Pull Request를 할 저장소를 찾을 때는 [Hacktoberfest](https://github.com/search?l=&o=desc&q=label%3Ahacktoberfest+state%3Aopen&s=updated&type=Issues)라고 라벨 된 Issue들을 찾아보시면 도움이 될것 입니다.  
 
-    혹시 저장소를 관리시나요? Issue에 hacktoberfest 라벨을 붙이면 새로운 기여자분들이 저장소에 오셔서 작업을 도와주실 것입니다. 만약 스팸이거나 상관없는 Pull Request에는 **invalid**라벨을 붙여서 평가해주세요.
+    혹시 저장소를 관리하시나요? Issue에 hacktoberfest 라벨을 붙이면 새로운 기여자분들이 저장소에 오셔서 작업을 도와주실 것입니다. 만약 스팸이거나 상관없는 Pull Request에는 **invalid**라벨을 붙여서 평가해주세요.
 
 ??? "제 진행 사항을 볼 수 있나요?"
     [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com)에 GitHub 계정으로 로그인하면 여러분의 진행 사항을 볼 수 있습니다
