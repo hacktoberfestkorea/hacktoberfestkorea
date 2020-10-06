@@ -20,7 +20,10 @@
 </center>
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/b_0rjUNK5zY' frameborder='0' allowfullscreen></iframe></div>
+<<<<<<< HEAD
+=======
 <p>(한글자막 제공 : 이소울님)</p> 
+>>>>>>> 97d3d64ec66abe11e5b7bafca249e860e9387e27
 
 ## 행사 내용
 
@@ -86,6 +89,7 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 - [AkiaCode](http://github.com/AkiaCode)
 - [minhoryang](https://github.com/minhoryang)
 - [jehunseo](https://github.com/jehunseo)
+- [lill74](https://github.com/lill74)
 - 참여하시는 분들은 참여의사를 표시한 불로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요.  5분이면 됩니다!
 <!-- 기존 내용중 한 줄 복사하여 마지막줄에 붙여넣기 하신후 내용을 본인것에 맞게 수정해 주세요 -->
 <!-- 수정이 끝나면 제일 아래에 Propose changes라는 녹색 버튼을 꾹 누르세요! -->
