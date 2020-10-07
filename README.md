@@ -8,7 +8,9 @@
   <a href="https://discord.gg/BD3V3NC">디스코드 서버</a>
 </div>
 
-> 많은 분들의 기여로 제작된 이 사이트는 'hacktoberfestkorea.com'에서 확인하실 수 있습니다.
+<br />
+
+> 많은 분들의 기여로 제작된 이 사이트는 '[hacktoberfestkorea.com](hacktoberfestkorea.com)'에서 확인하실 수 있습니다.
 
 ## 소개
 한국어로 Hactoberfest를 소개하고 정보를 나누는 사이트입니다.\
@@ -22,6 +24,6 @@
 * [초보자 가이드](https://www.hacktoberfestkorea.com/beginners_guide/)
 
 ## 외부 링크
-facebook 'Hacktoberfest Korea' 그룹과 discord 'Hacktoberfest Korea' 서버에서 Hactoberfest와 관련된 정보를 공유하고 있습니다.\
+facebook 'Hacktoberfest Korea' 그룹과 discord 'Hacktoberfest Korea' 서버에서 Hactoberfest와 관련된 정보를 공유하고 있습니다.
 * [Facebook - hactoberfest korea 그룹으로 가기](https://www.facebook.com/groups/788404381916128/?ref=share)
 * [Discord - hactoberfest korea 서버로 가기](https://discord.gg/BD3V3NC)
