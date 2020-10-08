@@ -53,7 +53,7 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 - [LibreOffice우리말모듬의 자동교정데이터 저장소](https://github.com/libreoffice-kr/autocorr_kr) 리브레오피스의 우리말 자동교정 내용을 관리하는 저장소입니다.
 - [p5sample](https://github.com/phg98/phg98p5sample) p5.js를 사용한 기하학 패턴 만들기. 실행화면은 [여기를 눌러보세요](https://phg98.github.io/phg98p5sample/)
 - [KoNLPy: 파이썬 한국어 NLP](https://github.com/konlpy/konlpy) `한국어 정보처리를 위한 파이썬 패키지입니다.`
-- [Lovefields](https://github.com/lovefields/dragonEditor) `Javascript를 이용한 이지윅 에디터 오픈소스 입니다.`
+- [dragonEditor](https://github.com/lovefields/dragonEditor) `Javascript를 이용한 이지윅 에디터 오픈소스 입니다.`
 - _저장소를 운영하시는 분들중에 참여하고자 하시는 분들은 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 저장소에 ''hacktoberfest'라는 topic을 꼭 넣어주시구요.([참고 : 스팸 PR 관련 공지](https://www.hacktoberfestkorea.com/hacktoberfest_spam_update/)) 응원합니다!_
 <!-- 가능하면 한글로 된 이슈에는 "핵토버페스트"라는 한글 라벨도 붙여주시면 찾기 좋을것 같습니다. -->
 <!-- 저장소 운영하시는 분들은 다들 잘 아실테니까 설명 필요없을것 같은데, 혹시 초보자인데 등록하시려면 아래 내용대로만 하면 됩니다. -->
