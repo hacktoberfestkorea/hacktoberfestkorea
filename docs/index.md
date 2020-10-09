@@ -102,3 +102,5 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 ## 관련 링크
 
 - 이 사이트의 Github 저장소 : [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea)
+- 페이스북 : [Hacktoberfest Korea Facebook](https://www.facebook.com/groups/788404381916128/)
+- 디스코드 : [Hacktoberfest Korea Discord](https://discord.com/invite/BD3V3NC)
