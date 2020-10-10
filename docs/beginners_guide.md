@@ -57,7 +57,9 @@ fork된 저장소에서 수정할 파일을 찾아 클릭합니다.
 이제 첫 풀리퀘스트를 해보셨다면 [이슈페이지](https://github.com/phg98/hacktoberfestkorea/issues)로 가서 다른 적당한 항목이 있는지 확인해 보세요.  
 
 ### 참고 : 이 문서는 초보자를 위한 문서이므로 의도적으로 설명하지 않은 부분들이 있습니다. {#reference}
-* 마크다운 문법
+* 마크 다운 문법
+  * [마크다운 기본 문법](https://www.notion.so/MD-Markdown-md-6f90928d5b8a4884b84a540410f8afdd)
+  * [마크다운 확장 문법](https://www.notion.so/MD-Markdown-md-c990b53525f3443faa2dc0f292222407)
 * 로컬PC로 Clone하여 수정하기
 * 브랜치 생성하기
 * 수정도중에 원본프로젝트의 변경사항 업데이트하기
