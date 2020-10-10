@@ -71,6 +71,7 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 [공식홈페이지](https://hacktoberfest.digitalocean.com/)에서 더 많은 프로젝트를 찾을 수 있습니다.
 
 - [super-newbie coder's GUIDE TO Hacktoberfest](https://emmalearnscode.github.io/guide-to-HF/index.html) : html과 css파일만 추가하면 된다고 하네요.
+- [EbookFoundation free-programming-books](https://github.com/EbookFoundation/free-programming-books) : 무료 강의, 도서를 아카이빙하는 Repo입니다. 간단하게 md 파일만 수정하면 됩니다. (한글도 있음)
 - _좋은 영문 초보자용 프로젝트를 찾으셨나요? 링크해서 공유해주세요! 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요._
 <!-- 기존 내용중 한 줄 복사하여 마지막줄에 붙여넣기 하신후 내용을 본인것에 맞게 수정해 주세요 -->
 <!-- 수정이 끝나면 제일 아래에 Propose changes라는 녹색 버튼을 꾹 누르세요! -->
