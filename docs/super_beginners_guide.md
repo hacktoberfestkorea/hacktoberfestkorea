@@ -31,8 +31,9 @@
 다음 단계로는 [초보자용 사용 방법](beginners_guide.md)를 읽어 보세요!
 
 ### 참고 : 이 문서는 초초초초보자를 위한 문서이므로 의도적으로 설명하지 않은 부분들이 있습니다. {#reference}
-* [마크다운 기본 문법](https://www.notion.so/MD-Markdown-md-6f90928d5b8a4884b84a540410f8afdd)
-* [마크다운 확장 문법](https://www.notion.so/MD-Markdown-md-c990b53525f3443faa2dc0f292222407)
+* 마크 다운 문법
+  * [마크다운 기본 문법](https://www.notion.so/MD-Markdown-md-6f90928d5b8a4884b84a540410f8afdd)
+  * [마크다운 확장 문법](https://www.notion.so/MD-Markdown-md-c990b53525f3443faa2dc0f292222407)
 * 본인저장소로 Fork하기
 * 로컬PC로 Clone하여 수정하기
 * 브랜치 생성하기
