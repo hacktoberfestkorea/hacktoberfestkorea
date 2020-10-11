@@ -39,6 +39,9 @@
 
 ??? "이슈 / 커밋도 포함되나요?"
     아닙니다. Pull Request만 계산됩니다.
+    
+??? "홈페이지 안에 리스트로 게시되지 않은 이슈/저장소에서 Pull Request를 생성해도 괜찮나요?"
+    네! 모든 공개된 GitHub 저장소에서 Hacktoberfest 참여가 유효합니다.
 
 ??? "GitHub 외부에서 이루어진 기여도 포함이 되나요?"
     Pull Request는 GitHub에서 이루어져야만 합니다.
