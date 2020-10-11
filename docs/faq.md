@@ -45,6 +45,9 @@
 
 ??? "GitHub 외부에서 이루어진 기여도 포함이 되나요?"
     Pull Request는 GitHub에서 이루어져야만 합니다.
+    
+??? "이슈는 카운팅 되기 위해 반드시 #Hacktoberfest 태그를 달아야 하나요?"
+    아니요, hacktoberfest 이슈 유무와 관계없이, 참여하는 저장소에 대한 모든 Pull Request가 카운팅됩니다. 
 
 # 배송
 
