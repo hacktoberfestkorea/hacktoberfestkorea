@@ -20,7 +20,7 @@
 # 참여 규칙
 
 ??? "10월 중순부터 Hacktoberfest에 등록하여 활동을 시작했습니다. 10월 초에 생성한 Pull Request가 포함되나요?"
-    Hacktoberfest에 등록하는 시기와 관계없이 10월 1일부터 10월 31일 사이에 생성된 모든 Pull Request가 포함됩니다. 10월 1일 이전에 생성되었으나 이후에 Merge되거나, Ready for Review 마크가 부착된 Pull Request은 포함되지 않습니다.
+    Hacktoberfest에 등록하는 시기와 관계없이 10월 1일부터 10월 31일 사이에 생성된 모든 Pull Request가 포함됩니다. 10월 1일 이전에 생성되었으나 이후에 Merge되거나, Ready for Review 마크가 부착된 Pull Request은 포함되지 않습니다. **저장소에 'hacktoberfest'라는 토픽이 붙여진 저장소에 대한 Pull Request만 인정됩니다. 또는 저장소 관리자가 Pvll Request에 "hacktoberfest-accepted"라는 라벨을 붙여준 경우에 인정됩니다. (10월 3일 업데이트된 내용)**
 
 ??? "자신의 저장소에 대한 Pull Request가 포함되나요?"
     포함됩니다. 하지만 다른 저장소에 더 좋은 기여를 할 것을 권장합니다.
@@ -41,7 +41,7 @@
     아닙니다. Pull Request만 계산됩니다.
     
 ??? "홈페이지 안에 리스트로 게시되지 않은 이슈/저장소에서 Pull Request를 생성해도 괜찮나요?"
-    네! 모든 공개된 GitHub 저장소에서 Hacktoberfest에 참여하실 수 있습니다.
+    네! **hacktoberfest** 토픽이 있는 저장소라면 어떠한 저장소라도 Hacktoberfest에 참여하실 수 있습니다.
 
 ??? "GitHub 외부에서 이루어진 기여도 포함이 되나요?"
     Pull Request는 GitHub에서 이루어져야만 합니다.
