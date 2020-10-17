@@ -13,7 +13,7 @@
 > 많은 분들의 기여로 제작된 이 사이트는 '[www.hacktoberfestkorea.com](https://www.hacktoberfestkorea.com)'에서 확인하실 수 있습니다.
 
 ## 소개
-한국어로 Hactoberfest를 소개하고 정보를 나누는 사이트입니다.\
+한국어로 Hacktoberfest를 소개하고 정보를 나누는 사이트입니다.\
 가급적 초보자 분들의 참여를 유도하고자 합니다.\
 개발자 분들의 많은 참여를 부탁드립니다.
 
