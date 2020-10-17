@@ -27,3 +27,5 @@
 facebook 'Hacktoberfest Korea' 그룹과 discord 'Hacktoberfest Korea' 서버에서 Hacktoberfest와 관련된 정보를 공유하고 있습니다.
 * [Facebook - hactoberfest korea 그룹으로 가기](https://www.facebook.com/groups/788404381916128/?ref=share)
 * [Discord - hactoberfest korea 서버로 가기](https://discord.gg/BD3V3NC)
+
+오타를 왜 찾아야하는걸까? 모르겠다.... 일단 티셔츠준다니까 따라해보자 이게맞는건진 모르겠지만 ㅋㅋㅋ
