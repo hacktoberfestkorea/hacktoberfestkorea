@@ -25,5 +25,5 @@
 
 ## 외부 링크
 facebook 'Hacktoberfest Korea' 그룹과 discord 'Hacktoberfest Korea' 서버에서 Hacktoberfest와 관련된 정보를 공유하고 있습니다.
-* [Facebook - hactoberfest korea 그룹으로 가기](https://www.facebook.com/groups/788404381916128/?ref=share)
-* [Discord - hactoberfest korea 서버로 가기](https://discord.gg/BD3V3NC)
+* [Facebook - hacktoberfest korea 그룹으로 가기](https://www.facebook.com/groups/788404381916128/?ref=share)
+* [Discord - hacktoberfest korea 서버로 가기](https://discord.gg/BD3V3NC)
