@@ -20,7 +20,7 @@
 ## 참고 가이드
 풀리퀘스트(Pull Request)를 만드는데 익숙하지 않은 초보자분은 아래 가이드를 보시면 도움이 됩니다.
 
-* [초초초초보자 가이드](https://www.hacktoberfestkorea.com/super_beginners_guide/)
+* [왕초보자 가이드](https://www.hacktoberfestkorea.com/super_beginners_guide/)
 * [초보자 가이드](https://www.hacktoberfestkorea.com/beginners_guide/)
 
 ## 외부 링크
