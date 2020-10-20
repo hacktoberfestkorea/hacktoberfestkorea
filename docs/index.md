@@ -1,8 +1,6 @@
 ![hacktoberfest full logo](assets/HF-full-logo-kr.png)
 
 <center>
-   <h2> 공지사항 1 : <a href="https://event-us.kr/hacktoberfestkorea/event/23432">핵토버페스트 서울 밋업</a>에 참여하세요! <h2>
-   <h2> 공지사항 2 : 권태관님이 <a href="https://github.com/taetaetae/github-repo-searcher">핵토버페스트에 참여하는 한국개발자 저장소</a>를 수집하셨습니다! 기여할만한 저장소가 있는지 확인해보세요! <h2>
    <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
    <p> 이 사이트는 한국 개발자들을 위한 <b>비공식(Unofficial)</b> 사이트 입니다. </p>
    <p> 행사에 등록하시려면 아래 공식 홈페이지로 가셔서 'Start Hacking'버튼을 누르세요. </p>
