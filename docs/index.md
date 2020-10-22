@@ -3,6 +3,7 @@
 ## 공지 사항 {#notice}
 - 공지사항 1 : [핵토버페스트 서울 밋업](https://event-us.kr/hacktoberfestkorea/event/23432)에 참여하세요! 
 - 공지사항 2 : 권태관님이 [핵토버페스트에 참여하는 한국개발자 저장소](https://github.com/taetaetae/github-repo-searcher)를 수집하셨습니다! 기여할만한 저장소가 있는지 확인해보세요!
+- 공지사항 3 : 이소울님이 [한국개발자 저장소의 핵토버 이슈 검색기](https://chekly.co)를 만드셨습니다 기여할만한 이슈가 있는지 확인해보세요!
       
 <center>
    <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
