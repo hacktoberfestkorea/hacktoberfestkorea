@@ -1,4 +1,7 @@
 ![hacktoberfest full logo](assets/HF-full-logo-kr.png)
+[![GitHub stars](https://img.shields.io/github/stars/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/network)
+[![GitHub issues](https://img.shields.io/github/issues/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/issues)
 
 ## 공지 사항 {#notice}
 - 공지사항 1 : [핵토버페스트 서울 밋업](https://event-us.kr/hacktoberfestkorea/event/23432)에 참여하세요! 
