@@ -100,6 +100,7 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 - [jehunseo](https://github.com/jehunseo)
 - [kkimke](https://github.com/kkimke)
 - [lill74](https://github.com/lill74)
+- [jhhwang4195](https://github.com/jhhwang4195)
 - [pmh-only](https://github.com/pmh-only)
 - [Limm-jk](https://limm-jk.tistory.com/26)
 - [sboh1214](https://github.com/sboh1214)
