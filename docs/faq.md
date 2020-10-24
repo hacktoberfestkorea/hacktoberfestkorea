@@ -4,7 +4,7 @@
     만약 저장소 관리자가 여러분이 만드신 Pull Request를 스팸이나, 도움이 되지 않는다고 생각할 때, 관리자들은 여러분의 Pull Request에 **invalid**나 **spam**라벨을 붙일 수 있습니다. 이 라벨은 저희에게 저장소 관리자가 여러분의 Pull Request가 가치가 없다는 것을 알려주는 지표이기 때문에, Hacktoberfest에 집계되지 않습니다.
 
 ??? "제 프로필에 있는 Pull Request in a maturing이 무엇인가요?"
-    스팸을 줄이고, 저장소 관리자를 돕기 위해, 저희는 1주간의 평가 기간을 두었습니다. 여러분이 적합한 Pull Request를 제출하면, 7일간의 평가 과정이 시작합니다. 이 기간은 저장소 관리자들이 스팸성인 Pull Request를 구별하고, 스팸인 Pull Request에 invalid라벨을 붙일 수 있는 기회를 줍니다. 만약 여러분의 Pull Request가 평가 기간 동안 invalid라벨이 붙지 않았다면, Hacktoberfest 대회에 필요한 4개의 Pull Request중 한개로 들어가게 됩니다. 만약 invalid라벨이 붙게 된다면, 여러분은 다른 적합한 Pull Request를 보내거나, Pull Request에 대한 문제를 해결해야 합니다. 그 시점부터 평가 기간은 다시 시작합니다.
+    스팸을 줄이고, 저장소 관리자를 돕기 위해, 저희는 2주간의 평가 기간을 두었습니다. 여러분이 적합한 Pull Request를 제출하면, 14일간의 평가 과정이 시작합니다. 이 기간은 저장소 관리자들이 스팸성인 Pull Request를 구별하고, 스팸인 Pull Request에 invalid라벨을 붙일 수 있는 기회를 줍니다. 만약 여러분의 Pull Request가 평가 기간 동안 invalid라벨이 붙지 않았다면, Hacktoberfest 대회에 필요한 4개의 Pull Request중 한개로 들어가게 됩니다. 만약 invalid라벨이 붙게 된다면, 여러분은 다른 적합한 Pull Request를 보내거나, Pull Request에 대한 문제를 해결해야 합니다. 그 시점부터 평가 기간은 다시 시작합니다.
 
 ??? "어떻게 시작해야 하나요?"
     우선 [hacktoberfest.digitalocean.com](https://hacktoberfest.digitalocean.com)에 가입해주세요. 그리고 4개의 Pull Request를 GitHub 공개 저장소에 제출해주세요. Pull Request를 할 저장소를 찾을 때는 [Hacktoberfest](https://github.com/search?l=&o=desc&q=label%3Ahacktoberfest+state%3Aopen&s=updated&type=Issues)라고 라벨 된 Issue들을 찾아보시면 도움이 될것 입니다.  
