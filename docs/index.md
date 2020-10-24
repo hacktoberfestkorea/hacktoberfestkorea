@@ -112,6 +112,7 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 - [JuYeong0413](https://github.com/JuYeong0413)
 - [ChooX3](https://github.com/ChooX3)
 - [kimpika](https://kimpika.tistory.com/140)
+- [neont21](https://github.com/neont21)
 - [robertchoi](https://github.com/robertchoi)
 - [1031nice](https://github.com/1031nice)
 - [mozylee](https://github.com/mozylee)
