@@ -92,6 +92,7 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 
 ## 현재 참여자 리스트 {#current-participant-list}
 - [phg98](https://blog.naver.com/phg98/222101443689)
+- [wonderer80](https://github.com/wonderer80)
 - [oouuyab](https://github.com/oouuyab)
 - [modolee](https://velog.io/@modolee/hacktoberfest-2020)
 - [h5jam](https://github.com/h5jam)
@@ -100,21 +101,30 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 - [jehunseo](https://github.com/jehunseo)
 - [kkimke](https://github.com/kkimke)
 - [lill74](https://github.com/lill74)
+- [jhhwang4195](https://github.com/jhhwang4195)
 - [pmh-only](https://github.com/pmh-only)
 - [Limm-jk](https://limm-jk.tistory.com/26)
 - [sboh1214](https://github.com/sboh1214)
-- [soheekim911](https://github.com/
+- [felix911](https://github.com/soheekim911)
+- [xianeml](https://github.com/xianeml)
 - [Jinssssun](https://github.com/960813)
 - [taetaetae](https://taetaetae.github.io)
+- [alro923](https://github.com/alro923)
+- [black9p](https://github.com/black9p)
+- [JuYeong0413](https://github.com/JuYeong0413)
 - [ChooX3](https://github.com/ChooX3)
 - [kimpika](https://kimpika.tistory.com/140)
+- [neont21](https://github.com/neont21)
 - [robertchoi](https://github.com/robertchoi)
 - [1031nice](https://github.com/1031nice)
 - [mozylee](https://github.com/mozylee)
 - [harheem](https://github.com/harheem)
 - [cepiloth](https://github.com/cepiloth)
 - [abcdsds](https://github.com/abcdsds)
-
+- [devgaram](https://github.com/devgaram)
+- [ddangdol](https://ddangdol.github.io/hands-on/)
+- [qqyukim](https://github.com/QQyukim)
+- [wapj](https://github.com/wapj)
 - 참여하시는 분들은 참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요.  5분이면 됩니다!
 <!-- 기존 내용중 한 줄 복사하여 마지막줄에 붙여넣기 하신후 내용을 본인것에 맞게 수정해 주세요 -->
 <!-- 수정이 끝나면 제일 아래에 Propose changes라는 녹색 버튼을 꾹 누르세요! -->
@@ -127,3 +137,5 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 - 이 사이트의 Github 저장소 : [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea)
 - 페이스북 : [Hacktoberfest Korea Facebook](https://www.facebook.com/groups/788404381916128/)
 - 디스코드 : [Hacktoberfest Korea Discord](https://discord.com/invite/BD3V3NC)
+
+

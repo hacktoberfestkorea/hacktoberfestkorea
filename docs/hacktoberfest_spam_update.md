@@ -35,7 +35,7 @@ hacktoberfest-accepted로 분류하기
 모든 이벤트 주최자 및 기여자들에 감사합니다.
 여태까지 만들어진 멋진 기여와, 앞으로도 만들어질 기여도를 생각하니 기대되네요.
 참여 저장소를 찾으려면 Hacktoberfest 웹사이트를 확인하거나, github에서 'hacktoberfest'토픽을 확인하시기 바랍니다.
-질문, 건의등은 (영어)hacktoberfest@digitialocean.com로 연락 주시기 바랍니다.
+질문, 건의등은 (영어)hacktoberfest@digitalocean.com로 연락 주시기 바랍니다.
 
 정말 뭐가 만들어질지 기대되네요! 
 
