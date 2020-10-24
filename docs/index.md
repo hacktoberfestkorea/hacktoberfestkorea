@@ -118,6 +118,7 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 - [harheem](https://github.com/harheem)
 - [cepiloth](https://github.com/cepiloth)
 - [abcdsds](https://github.com/abcdsds)
+- [ddangdol](https://ddangdol.github.io/hands-on/)
 - [qqyukim](https://github.com/QQyukim)
 - [wapj](https://github.com/wapj)
 - 참여하시는 분들은 참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요.  5분이면 됩니다!
