@@ -105,6 +105,7 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 - [sboh1214](https://github.com/sboh1214)
 - [Jinssssun](https://github.com/960813)
 - [taetaetae](https://taetaetae.github.io)
+- [black9p](https://github.com/black9p)
 - [ChooX3](https://github.com/ChooX3)
 - [kimpika](https://kimpika.tistory.com/140)
 - [robertchoi](https://github.com/robertchoi)
