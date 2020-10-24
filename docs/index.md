@@ -119,6 +119,7 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 - [harheem](https://github.com/harheem)
 - [cepiloth](https://github.com/cepiloth)
 - [abcdsds](https://github.com/abcdsds)
+- [devgaram](https://github.com/devgaram)
 - [ddangdol](https://ddangdol.github.io/hands-on/)
 - [qqyukim](https://github.com/QQyukim)
 - [wapj](https://github.com/wapj)
