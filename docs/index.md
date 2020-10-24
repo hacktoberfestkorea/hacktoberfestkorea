@@ -108,6 +108,7 @@ Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 �
 - [xianeml](https://github.com/xianeml)
 - [Jinssssun](https://github.com/960813)
 - [taetaetae](https://taetaetae.github.io)
+- [alro923](https://github.com/alro923)
 - [black9p](https://github.com/black9p)
 - [JuYeong0413](https://github.com/JuYeong0413)
 - [ChooX3](https://github.com/ChooX3)
