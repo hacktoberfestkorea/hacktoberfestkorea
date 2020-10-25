@@ -41,7 +41,7 @@ Hacktoberfest®는 전세계 누구나 참여할 수 있는 행사입니다. 개
 - 10월 1일부터 10월 31일까지 보내진 Pull Request 만 인정됩니다.
 
 ## 행사 규칙 {#rules-of-events}
-Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 후에 4개의 풀리퀘스트를 작성하면 됩니다. _GitHub의 퍼블릭저장소라면 어디에도 풀리퀘스트를 보내도 인정됩니다._( **업데이트! : 스팸PR을 방지하기 위해 'hacktoberfest'라는 topic이 붙어있는 저장소만 인정됩니다. 자세한 내용은 [스팸 PR 관련 공지](https://www.hacktoberfestkorea.com/hacktoberfest_spam_update/)를 참고 하세요.** ) 꼭 'Hacktoberfest'로 분류된 이슈가 아니어도 좋습니다. (만약 저장소소유자가 당신의 풀리퀘스트를 스팸이나 부적절하다고 신고할 경우 참가자격을 박탈당하게 됩니다.) 올해에는 조건을 만족하는 70,000명에게만 티셔츠가 보내집니다.  
+Hacktoberfest 티셔츠를 얻기 위해서는 먼저 행사 등록을 마친 후에 4개의 풀리퀘스트를 작성하면 됩니다. _GitHub의 퍼블릭저장소라면 어디에도 풀리퀘스트를 보내도 인정됩니다._( **업데이트! : 스팸PR을 방지하기 위해 'hacktoberfest'라는 topic이 붙어있는 저장소만 인정됩니다. 자세한 내용은 [스팸 PR 관련 공지](https://www.hacktoberfestkorea.com/hacktoberfest_spam_update/)를 참고 하세요.** ) 꼭 'Hacktoberfest'로 분류된 이슈가 아니어도 좋습니다. (만약 저장소소유자가 당신의 풀리퀘스트를 스팸이나 부적절하다고 신고할 경우 참가자격을 박탈당하게 됩니다.) 올해에는 70,000장의 티셔츠가 준비되어있습니다.  
 행사참여에 대한 자세한 내용은 [세부사항](details.md) 및 [자주 묻는 질문](faq.md)을 참고하세요.
 
 ## 이전 행사 참여 후기 {#review-of-previous-event-participation}
