@@ -1,4 +1,11 @@
-![hacktoberfest full logo](assets/HF-full-logo-kr.png)
+<!-- ![hacktoberfest full logo](assets/HF-full-logo-kr.png) -->
+<h1>
+      핵토버페스트 2020 행사가 종료되었습니다.<br>
+      티셔츠를 받으시면 공유해 주시구요~<br>
+      2021년에 다시 만나요!<br>
+</h1>
+      
+      
 [![GitHub stars](https://img.shields.io/github/stars/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/network)
 [![GitHub issues](https://img.shields.io/github/issues/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/issues)
