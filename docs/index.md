@@ -2,6 +2,7 @@
 ![hacktoberfest 2021 coming soon](assets\coming soon.png)
 <h1>
       핵토버페스트 2021 행사가 곧 시작됩니다<br>
+      사이트 준비중이므로 작년내용과 올해내용이 섞여있으니 유의하세요
 </h1>
       
       
@@ -11,7 +12,7 @@
 
 ## 공지 사항 {#notice}
 - 아직 세부내용이 공식발표되지 않았습니다.
-- 작년 내용을 보시려면 [Hacktoberfest Korea 2021](https://phg98.github.io/hacktoberfestkorea2020/)을 참고하세요.
+- 작년 내용을 보시려면 [Hacktoberfest Korea 2020](https://phg98.github.io/hacktoberfestkorea2020/)을 참고하세요.
       
 <center>
    <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
