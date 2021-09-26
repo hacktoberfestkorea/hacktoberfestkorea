@@ -8,7 +8,7 @@ theme:
   custom_dir: 'theme'
   palette:
     scheme: default
-    primary: deep purple
+    primary: red
   favicon: assets/favicon.png
 
 nav:

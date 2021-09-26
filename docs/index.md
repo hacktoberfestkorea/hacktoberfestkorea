@@ -1,8 +1,7 @@
-<!-- ![hacktoberfest full logo](assets/HF-full-logo-kr.png) -->
+<!-- ![hacktoberfest full logo](assets\Hacktoberfest_final_2color-10 copy.svg) -->
+![hacktoberfest 2021 coming soon](assets\coming soon.png)
 <h1>
-      핵토버페스트 2020 행사가 종료되었습니다.<br>
-      티셔츠를 받으시면 공유해 주시구요~<br>
-      2021년에 다시 만나요!<br>
+      핵토버페스트 2021 행사가 곧 시작됩니다<br>
 </h1>
       
       
