@@ -9,7 +9,7 @@ theme:
   palette:
     scheme: default
     primary: red
-  favicon: assets/favicon.png
+  favicon: assets/favicon.ico
 
 nav:
   - Home: index.md
