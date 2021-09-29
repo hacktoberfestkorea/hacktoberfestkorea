@@ -75,6 +75,7 @@
 - _기존에 참여하셨었나요? 후기를 링크해서 공유해주세요! 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요._
 
 ## 한글 프로젝트 {#hangul-project}
+아래는 작년 내용입니다.
 
 - [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) : 초보자를 위한 간단한 이슈들이 있습니다.
 - _저장소를 운영하시는 분들중에 참여하고자 하시는 분들은 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 저장소에 ''hacktoberfest'라는 topic을 꼭 넣어주시구요. 응원합니다!_
@@ -90,6 +91,7 @@
 [2020년 핵토버페스트에 참가했던 한글 프로젝트 링크](https://phg98.github.io/hacktoberfestkorea2020/#hangul-project)
 
 ## 영문 초보자용 프로젝트 {#a-project-for-beginners}
+아래는 작년 내용입니다.
 
 영어에 두려움이 없으시다면 아래의 초보자용 사이트를 참고하세요.  
 [공식홈페이지](https://hacktoberfest.digitalocean.com/)에서 더 많은 프로젝트를 찾을 수 있습니다.
