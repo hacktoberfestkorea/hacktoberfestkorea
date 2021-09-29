@@ -1,3 +1,5 @@
+## 아래는 작년(2020년)의 내용입니다. 올해에는 별도 공지가 없었습니다만, 작년의 내용도 유용하다고 생각되어 공유합니다.
+
 # Hacktoberfest 이벤트의 행동 규칙
 - 모든 [Hacktoberfest](https://hacktoberfest.digitalocean.com) [커뮤니티 이벤트](https://hacktoberfest.digitalocean.com/events)의 주최자, 참가자, 발언자, 스폰서, 그리고 자원봉사자 여러분들은 다음의 행동 규칙을 준수할 것에 동의해 주셔야 합니다. Hacktoberfest 커뮤니티 이벤트의 주최자 그리고/또는 DigitalOcean 스태프 여러분들은 이벤트 동안 이 규칙이 지켜지도록 해야 합니다 안전한 환경을 보장하기 위해 우리는 모든 참가자분들의 협력을 기대하고 있습니다.
 

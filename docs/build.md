@@ -1,4 +1,5 @@
 # 작업환경 구성하기
+이 사이트는 Python과 mkdocs-material를 사용해 만들어졌습니다
 
 ## 공통 {#common}
 
