@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./docs/assets/HF-full-logo-kr.png" width="300"/>
+  <img src="./docs/assets/Hacktoberfest_final_2color-10 copy.png" width="300"/>
   <h1>
-    Hacktoberfest Korea Site
+    Hacktoberfest Korea Unofficial Site
   </h1>
   <a href="https://www.hacktoberfestkorea.com/">비공식 웹사이트</a> •
   <a href="https://www.facebook.com/groups/788404381916128">페이스북 그룹</a> •
