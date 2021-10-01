@@ -107,6 +107,7 @@
 ## 현재 참여자 리스트 {#current-participant-list}
 
 - [phg98](https://blog.naver.com/phg98/222101443689)
+- [Typiespectre](https://github.com/Typiespectre)
 - [dynle](https://github.com/dynle)
 - [saseungmin](https://github.com/saseungmin)
 
