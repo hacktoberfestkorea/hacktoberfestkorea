@@ -78,15 +78,15 @@
 
 - [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) : 초보자를 위한 간단한 이슈들이 있습니다.
 - [한국 WSL 사용자 그룹](https://www.wslhub.com/)
-   - [WSL 시작하기](https://github.com/wslhub/wsl-firststep) : WSL을 설치하면서 처음에 하는 일들을 모아놓은 리포지터리입니다. 이곳에 WSL에 관련된 문서를 올려주시면 좋습니다. (난이도: 하)
-   - [WSL SDK](https://github.com/wslhub/wsl-sdk-com) : WSL SDK COM 모듈 프로젝트입니다. 닷넷, COM 개발 경험이 있는 분의 컨트리뷰션을 받습니다. (난이도: 상)
-   - [WSL Manager](https://github.com/wslhub/WslManager) : WSL 배포판을 GUI 방식으로 관리할 수 있는 윈도우용 애플리케이션입니다. (난이도: 중)
-   - [WslQuery](https://github.com/wslhub/WslQuery) : WSL 배포판을 JSON 방식으로 조회하여 다른 프로그래밍 언어에서 활용하기 좋게 해줍니다. (난이도: 중)
+      - [WSL 시작하기](https://github.com/wslhub/wsl-firststep) : WSL을 설치하면서 처음에 하는 일들을 모아놓은 리포지터리입니다. 이곳에 WSL에 관련된 문서를 올려주시면 좋습니다. (난이도: 하)
+      - [WSL SDK](https://github.com/wslhub/wsl-sdk-com) : WSL SDK COM 모듈 프로젝트입니다. 닷넷, COM 개발 경험이 있는 분의 컨트리뷰션을 받습니다. (난이도: 상)
+      - [WSL Manager](https://github.com/wslhub/WslManager) : WSL 배포판을 GUI 방식으로 관리할 수 있는 윈도우용 애플리케이션입니다. (난이도: 중)
+      - [WslQuery](https://github.com/wslhub/WslQuery) : WSL 배포판을 JSON 방식으로 조회하여 다른 프로그래밍 언어에서 활용하기 좋게 해줍니다. (난이도: 중)
 - [닷넷데브](https://forum.dotnetdev.kr)
-   - [식탁보 프로젝트](https://github.com/yourtablecloth/TableCloth) : 윈도우 샌드박스를 이용하여 인터넷 뱅킹, 공인 인증서 연동을 도와줍니다. 문서, 코드 기여를 받습니다. (난이도: 중상)
-   - [식탁보 홈페이지](https://github.com/yourtablecloth/yourtablecloth.github.io) : 식탁보의 사용법에 관련된 문서 기여를 받습니다. (난이도: 하)
-   - [식탁보 카탈로그](https://github.com/yourtablecloth/TableClothCatalog) : 인터넷 익스플로러가 아니면 제대로 동작하지 않는 사이트와 필요한 소프트웨어 EXE 파일 다운로드 경로를 카탈로그 형태로 관리하고 있습니다. (난이도: 중)
-   - [Experimental.System.Messaging](https://github.com/dotnetdev-kr/Experimental.System.Messaging) : 닷넷 코어 (!= 닷넷 프레임워크)용 MSMQ 라이브러리이며, MS의 레퍼런스 소스를 이식해서 만들었습니다. 코드 기여, 샘플 코드, 문서 기여를 받습니다. (난이도: 상)
+      - [식탁보 프로젝트](https://github.com/yourtablecloth/TableCloth) : 윈도우 샌드박스를 이용하여 인터넷 뱅킹, 공인 인증서 연동을 도와줍니다. 문서, 코드 기여를 받습니다. (난이도: 중상)
+      - [식탁보 홈페이지](https://github.com/yourtablecloth/yourtablecloth.github.io) : 식탁보의 사용법에 관련된 문서 기여를 받습니다. (난이도: 하)
+      - [식탁보 카탈로그](https://github.com/yourtablecloth/TableClothCatalog) : 인터넷 익스플로러가 아니면 제대로 동작하지 않는 사이트와 필요한 소프트웨어 EXE 파일 다운로드 경로를 카탈로그 형태로 관리하고 있습니다. (난이도: 중)
+      - [Experimental.System.Messaging](https://github.com/dotnetdev-kr/Experimental.System.Messaging) : 닷넷 코어 (!= 닷넷 프레임워크)용 MSMQ 라이브러리이며, MS의 레퍼런스 소스를 이식해서 만들었습니다. 코드 기여, 샘플 코드, 문서 기여를 받습니다. (난이도: 상)
 - _저장소를 운영하시는 분들중에 참여하고자 하시는 분들은 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 저장소에 ''hacktoberfest'라는 topic을 꼭 넣어주시구요. 응원합니다!_
 <!-- 가능하면 한글로 된 이슈에는 "핵토버페스트"라는 한글 라벨도 붙여주시면 찾기 좋을것 같습니다. -->
 <!-- 저장소 운영하시는 분들은 다들 잘 아실테니까 설명 필요없을것 같은데, 혹시 초보자인데 등록하시려면 아래 내용대로만 하면 됩니다. -->
