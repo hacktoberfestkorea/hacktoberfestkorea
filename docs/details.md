@@ -8,9 +8,9 @@
 
 1. **누구든지 괜찮아요!** Hacktoberfest는 151개국, 수천 가지의 고유 기술을 가진 분들이 참여하고 있습니다. 이 행사는 다른 오픈 소스 커뮤니티에 활동하고 있거나 관심 있는 영역에 참여하고자 하는 모든 분이 참여할 수 있습니다.
 
-2. **즐기면서 많이, 중요한 품질** Hacktoberfest를 참여한다는 것은 개인의 성장과 전문성 있는 기회, 커뮤니티 형성을 이끌어갈 수 있다는 것입니다. 또한 이 모든 활동은 오픈 소스 소프트웨어에 대한 의미 있는 기여로부터 시작됩니다.
+2. **즐기면서 많이, 하지만 양보다는 질** Hacktoberfest를 참여한다는 것은 개인의 성장과 전문성 있는 기회, 커뮤니티 형성을 이끌어갈 수 있다는 것입니다. 또한 이 모든 활동은 오픈 소스 소프트웨어에 대한 의미 있는 기여로부터 시작됩니다. 저희의 규칙에서 제시되었듯이, 저희는 항상 양질의 협력을 우선시 할 것 입니다.
 
-3. **간결한 활동, 오래가는 강력함** 오픈 소스 커뮤니티에서 우리는 커뮤니티가 이루어낸 많은 발전을 경험할 수 있게 될 것입니다. 여러분이 남긴 참여 기록은 10월을 넘어 사람과 기술에 지속적인 효과를 가져다줄 것입니다. 이 행사는 경주가 아닌 여정입니다.
+3. **간결한 활동, 오래가는 강력함** 오픈 소스 커뮤니티에서 우리는 커뮤니티가 이루어낸 많은 발전을 경험할 수 있게 될 것입니다. 여러분이 남긴 참여 기록은 이번 10월을 넘어 사람과 기술에 지속적인 효과를 가져다줄 것입니다. 이 행사는 경주가 아닌 여정입니다.
 
 <p><a href="https://hacktoberfest.digitalocean.com/details?wvideo=pe3wigkdzl"><img src="https://embedwistia-a.akamaihd.net/deliveries/d2b4bb0530f4ff4c817d4a35b11cda4d.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=1e71e7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://hacktoberfest.digitalocean.com/details?wvideo=pe3wigkdzl">Hacktoberfest presented by DigitalOcean</a></p>
 
@@ -49,7 +49,7 @@ during the month of October AND (
 ```
 
 # 품질 표준
-Hacktoberfest의 가치 2항인 "즐기면서 많이, 중요한 품질"은 다음 행동을 권장하지 않습니다. 낮은 품질로 기여한 것으로 간주하는 풀 리퀘스트의 예를 소개합니다.
+Hacktoberfest의 가치 2항인 "즐기면서 많이, 하지만 양보다는 질"은 다음 행동을 권장하지 않습니다. 낮은 품질로 기여한 것으로 간주하는 풀 리퀘스트의 예를 소개합니다.
 
 * 풀 리퀘스트를 자동으로 생성 (예: 공백 제거, 오탈자 수정, 이미지 최적화 등을 수행하는 스크립트로 오픈된 풀 리퀘스트)
 * 풀 리퀘스트로 인한 파괴 행위 (예: 다른 사람의 브랜치, 커밋을 가로채고 풀 리퀘스트를 만듦)
