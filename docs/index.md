@@ -87,6 +87,7 @@
     - [식탁보 홈페이지](https://github.com/yourtablecloth/yourtablecloth.github.io) : 식탁보의 사용법에 관련된 문서 기여를 받습니다. (난이도: 하)
     - [식탁보 카탈로그](https://github.com/yourtablecloth/TableClothCatalog) : 인터넷 익스플로러가 아니면 제대로 동작하지 않는 사이트와 필요한 소프트웨어 EXE 파일 다운로드 경로를 카탈로그 형태로 관리하고 있습니다. (난이도: 중)
     - [Experimental.System.Messaging](https://github.com/dotnetdev-kr/Experimental.System.Messaging) : 닷넷 코어 (!= 닷넷 프레임워크)용 MSMQ 라이브러리이며, MS의 레퍼런스 소스를 이식해서 만들었습니다. 코드 기여, 샘플 코드, 문서 기여를 받습니다. (난이도: 상)
+    - [react-kakao-maps-sdk](https://github.com/JaeSeoKim/react-kakao-maps-sdk) : Kakao Map를 React 컴포넌트로 관리할 수 있게 랩핑한 라이브러리 입니다. 코드 기여, 샘플 코드, 문서 기여를 받습니다. (난이도: 중)
 - _저장소를 운영하시는 분들중에 참여하고자 하시는 분들은 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 저장소에 ''hacktoberfest'라는 topic을 꼭 넣어주시구요. 응원합니다!_
 <!-- 가능하면 한글로 된 이슈에는 "핵토버페스트"라는 한글 라벨도 붙여주시면 찾기 좋을것 같습니다. -->
 <!-- 저장소 운영하시는 분들은 다들 잘 아실테니까 설명 필요없을것 같은데, 혹시 초보자인데 등록하시려면 아래 내용대로만 하면 됩니다. -->
