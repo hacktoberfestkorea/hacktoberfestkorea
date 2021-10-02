@@ -1,4 +1,4 @@
-**! 이 페이지는 [https://hacktoberfest.digitalocean.com/details](https://hacktoberfest.digitalocean.com/details) 에서 번역되었습니다.**
+**! 이 페이지는 [https://hacktoberfest.digitalocean.com/resources](https://hacktoberfest.digitalocean.com/resources) 에서 번역되었습니다.**
 
 # 리소스
 풀 리퀘스트를 한 번만 하거나 수십번을 하더라도 항상 더 배울 것이 있습니다. 이곳에 모아 둔 몇 가지 리소스들은 참여자에게 양질의 풀 리퀘스트를 생성할 수 있게 할 것이며, 저장소 상태를 유지하고 오픈 소스 지식을 쌓아 올리는 데 도움을 줄 것입니다.
