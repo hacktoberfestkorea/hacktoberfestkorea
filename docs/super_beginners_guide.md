@@ -22,7 +22,7 @@
 그러면 뭔가 복잡한 화면이 나옵니다. 수정내용을 한번 더 확인하는 화면입니다. 그냥 'Create pull request' 초록색 버튼을 클릭하세요.  
 ![create_pull_request1](img/create_pull_request1.png)  
 
-그러면 또다시 복잡한 화면이 나옵니다. 변경요청을 발송하는 화면입니다. 그냥 'New pull request' 초록색 버튼을 클릭합니다.  
+그러면 또다시 복잡한 화면이 나옵니다. 변경요청을 생성/발송하는 화면입니다. 그냥 'New pull request' 초록색 버튼을 클릭합니다.  
 ![new_pr](img/new_pr.png)  
 
 이제 변경요청(풀리퀘스트Pull Request)가 만들어졌습니다. 기다리시면 원본 프로젝트의 관리자가 승인하면 반영됩니다.  
