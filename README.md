@@ -8,6 +8,10 @@
   <a href="https://discord.gg/BD3V3NC">디스코드 서버</a>
 </div>
 
+[![GitHub stars](https://img.shields.io/github/stars/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/network)
+[![GitHub issues](https://img.shields.io/github/issues/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/issues)
+
 <br />
 
 > 많은 분들의 기여로 제작된 이 사이트는 '[www.hacktoberfestkorea.com](https://www.hacktoberfestkorea.com)'에서 확인하실 수 있습니다.
