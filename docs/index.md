@@ -16,9 +16,8 @@
 [![GitHub forks](https://img.shields.io/github/forks/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/network)
 [![GitHub issues](https://img.shields.io/github/issues/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/issues)
 
-<!-- ## 공지 사항 {#notice}
-- 아직 세부내용이 공식발표되지 않았습니다.
--->
+## 공지 사항 {#notice}
+- 올해에는 간단한 PR을 받는 초보자용 저장소들이 행사에서 제외되고 있습니다.(Excluded Project) PR보내실때 유의하시기 바랍니다.
       
 <center>
    <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
