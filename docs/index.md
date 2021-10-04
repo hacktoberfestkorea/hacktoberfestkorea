@@ -54,7 +54,7 @@
     - 행사 등록시 Maintainer를 선택
     - 행사 참여할 저장소에 hacktoberfest 토픽을 추가
     - 행사 참여 저장소에 생성된 PR에 대해 아래와 같은 액션을 4회 실행시 자격 인정
-        - PR 머지 또는 리뷰 승인 또는 'hacktoberest-accepted' 라벨 부여
+        - PR 머지 또는 리뷰 승인 또는 'hacktoberfest-accepted' 라벨 부여
         - 문제되는 PR에 대해서 'invalid' 또는 'spam' 라벨 부여
 - 저장소 관리자를 위해서는 10,000장의 티셔츠가 준비되어 있으며, 이를 초과할 경우 PR의 갯수에 따라 결정됩니다.
 
