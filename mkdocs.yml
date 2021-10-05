@@ -11,6 +11,9 @@ theme:
     primary: red
   favicon: assets/favicon.png
 
+extra_css:
+  - stylesheets/extra.css
+
 nav:
   - Home: index.md
   - 행동 규칙 : Hacktoberfest_code_of_conduct.md
