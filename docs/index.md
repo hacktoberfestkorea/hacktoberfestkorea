@@ -125,6 +125,7 @@
 - [saseungmin](https://github.com/saseungmin)
 - [studioego](https://github.com/studioego)
 - [jinssssun](https://github.com/960813)
+- [Seungwoo321](https://github.com/Seungwoo321)
 
 - 참여하시는 분들은 참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요.  5분이면 됩니다!
 <!-- 기존 내용중 한 줄 복사하여 마지막줄에 붙여넣기 하신후 내용을 본인것에 맞게 수정해 주세요 -->
