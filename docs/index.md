@@ -126,7 +126,7 @@
 - [saseungmin](https://github.com/saseungmin)
 - [studioego](https://github.com/studioego)
 - [jinssssun](https://github.com/960813)
-- [Seungwoo321](https://github.com/Seungwoo321)
+- [Seungwoo321/vue-pivottable](https://github.com/Seungwoo321/vue-pivottable)
 - [Cloud-Barista/CB-Tumblebug: 멀티 클라우드 관리 SW](https://github.com/cloud-barista/cb-tumblebug)
 - [yjchoi07](https://github.com/yjchoi07) 
 - 참여하시는 분들은 참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요.  5분이면 됩니다!
