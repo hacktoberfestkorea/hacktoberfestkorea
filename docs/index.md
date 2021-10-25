@@ -60,6 +60,10 @@
 ## 이전 행사 참여 후기 {#review-of-previous-event-participation}
 이전에 참여했던 분들중 후기를 쓰셨던 분들은 아래에 링크해 주시면 새로운 사람들이 둘러보는데 도움이 되겠습니다.
 
+2021년 후기
+
+- 'Mike Kim 개발 블로그'의 [2021 핵토버페스트 첫 참가기!](https://kys9261.github.io/2021/10/20/programming/life/2021-hacktoberfest/)
+
 2020년 후기
 
 - '코드리뷰, 좀 쉬운 방법은 없을까? 블로그'의 [2020년 Hacktoberfest참가 후기](https://blog.naver.com/phg98/222126175319)
