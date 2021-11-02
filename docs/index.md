@@ -4,8 +4,7 @@
    ![presented by](assets\presented by 2021.PNG)
 </center>
 <h1>
-      핵토버페스트 2021 행사 등록이 시작되었습니다.<br>
-      공식 홈페이지에서 등록하세요.<br>
+      핵토버페스트 2021 행사가 종료되었습니다.<br>
 </h1>
 <center>
       [공식 홈페이지로 가기](https://hacktoberfest.digitalocean.com/){: .md-button .md-button--primary }
