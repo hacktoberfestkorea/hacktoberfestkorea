@@ -62,6 +62,7 @@
 2021년 후기
 
 - 'Mike Kim 개발 블로그'의 [2021 핵토버페스트 첫 참가기!](https://kys9261.github.io/2021/10/20/programming/life/2021-hacktoberfest/)
+- 'Hello, world! 블로그'의 [Hacktoberfest 핵토버페스트 2021 후기](https://blog.naver.com/hyeonjun7/222690170733)
 
 2020년 후기
 
