@@ -1,5 +1,5 @@
 <!-- ![hacktoberfest 2021 coming soon](assets\coming soon.png) -->
-![hacktoberfest full logo](assets\Hacktoberfest_final_2color-10 copy.svg)
+![hacktoberfest full logo](assets\Hfest-Logo-2-Color-Void.svg)
 <center>
    ![presented by](assets\presented by 2021.PNG)
 </center>
