@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./docs/assets/Hacktoberfest_final_2color-10 copy.png" width="300"/>
+  <img src="./docs/assets/Email Banners-Lite.png" width="300"/>
   <h1>
     Hacktoberfest Korea Unofficial Site
   </h1>
