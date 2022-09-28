@@ -4,7 +4,7 @@
    ![presented by](assets\presented by 2021.PNG)
 </center>
 <h1>
-      핵토버페스트 2022 행사가 곧 시작됩니다.<br>
+      핵토버페스트 2022 행사의 등록이 시작되었습니다.<br>
 </h1>
 <center>
       [공식 홈페이지로 가기](https://hacktoberfest.com/){: .md-button .md-button--primary }
@@ -29,7 +29,7 @@
 <p>(한글자막 제공 : 이소울님)</p>  -->
 
 ## 핵토버페스트(Hacktoberfest)란?
-- DigitalOcean사에서 주관하는 오픈소스 소프트웨어 행사로서 올해로 8회째인 행사입니다.
+- DigitalOcean사에서 주관하는 오픈소스 소프트웨어 행사로서 올해로 9회째인 행사입니다.
 - 10월 한달동안 오픈소스 저장소에 작은 기여를 하면 **무료티셔츠**를 기념품으로 받을 수 있습니다.
 - 그외에도 [다양한 이벤트](https://hacktoberfest-swag.com/)들이 진행됩니다.
 ![2020년 기념품](img\2020 tshirt.jpg)
@@ -37,16 +37,17 @@
 
 ## 행사 규칙 {#rules-of-events}
 
-- 먼저 **행사 등록**을 해야 합니다. [공식 홈페이지](https://hacktoberfest.digitalocean.com/)에서 등록 가능합니다. 10월중 언제든 등록가능합니다. 등록을 위해서는 Github 또는 Gitlab 계정이 필요합니다.
+- 먼저 **행사 등록**을 해야 합니다. [공식 홈페이지](https://hacktoberfest.digitalocean.com/)에서 등록 가능합니다. 9/26~10/31 기간중 언제든 등록가능합니다. 등록을 위해서는 Github 또는 Gitlab 계정이 필요합니다.
 
 - Github 또는 Gitlab의 저장소중 'hacktoberfest'라는 topic이 붙어있는 저장소에 **4개의 풀리퀘스트**를 작성하면 됩니다. 
 
 - 작성된 풀리퀘스트에 대해서 **저장소 관리자가 승인하거나 머지**하면 카운트됩니다. 4개의 풀리퀘스트가 카운트되면 기념품을 받을 자격이 됩니다.
 
-- 올해에는 50,000장의 티셔츠가 준비되어있습니다. 티셔츠 대신 '나무심기'를 선택하면 본인의 이름으로 나무를 심는 옵션도 있습니다.
+- 올해에는 40,000장의 티셔츠가 준비되어있습니다. 티셔츠 대신 '나무심기'를 선택하면 본인의 이름으로 나무를 심는 옵션도 있습니다.
 
 - 2020년도 행사시 일부 참가자들이 스팸 PR을 올려서 문제가 되었습니다. 좋은 취지의 행사를 계속 이어갈 수 있도록 **적절한 풀리퀘스트**를 작성하도록 유의하세요. 만약 저장소 관리자가 당신의 풀리퀘스트를 스팸이나 부적절하다고 신고할 경우 참가자격을 박탈당하게 됩니다. [세부사항참조](https://hacktoberfest.digitalocean.com/resources/qualitystandards)
 
+<!--
 ## 저장소 관리자 혜택 {#for-maintainer}
 - 올해에는 저장소 관리자도 기념품을 받을 수 있습니다
     - 행사 등록시 Maintainer를 선택
@@ -55,6 +56,10 @@
         - PR 머지 또는 리뷰 승인 또는 'hacktoberfest-accepted' 라벨 부여
         - 문제되는 PR에 대해서 'invalid' 또는 'spam' 라벨 부여
 - 저장소 관리자를 위해서는 10,000장의 티셔츠가 준비되어 있으며, 이를 초과할 경우 PR의 갯수에 따라 결정됩니다.
+-->
+## 로우코드, 노코드 참여 {#low-code-no-code}
+- 올해에는 로우코드(low-code), 노코드(no-code) 참여를 공식적으로 허용하고 강조하고 있습니다.
+    - 번역, 디자인, 소셜미디어 홍보(블로그, 비디오 등)도 기여로 카운트됩니다. PR을 올려서 내용을 확인가능하도록 하면 되겠습니다.
 
 ## 이전 행사 참여 후기 {#review-of-previous-event-participation}
 이전에 참여했던 분들중 후기를 쓰셨던 분들은 아래에 링크해 주시면 새로운 사람들이 둘러보는데 도움이 되겠습니다.
@@ -127,21 +132,8 @@
 
 ## 현재 참여자 리스트 {#current-participant-list}
 
-- [phg98](https://blog.naver.com/phg98/222101443689)
-- [Typiespectre](https://github.com/Typiespectre)
-- [dynle](https://github.com/dynle)
-- [saseungmin](https://github.com/saseungmin)
-- [studioego](https://github.com/studioego)
-- [jinssssun](https://github.com/960813)
-- [Seungwoo321/vue-pivottable](https://github.com/Seungwoo321/vue-pivottable)
-- [Cloud-Barista/CB-Tumblebug: 멀티 클라우드 관리 SW](https://github.com/cloud-barista/cb-tumblebug)
-- [yjchoi07](https://github.com/yjchoi07) 
-- [c2lv](https://github.com/c2lv)
-- [wonderer80](https://github.com/wonderer80)
-- [justin-themedium](https://github.com/justin-themedium)
-- [KimTaering](https://github.com/KimTaering)
-- [EuiEui](https://github.com/EUijinn)
-- [jung-youjin](https://github.com/jung-youjin)
+- [phg98]([https://blog.naver.com/phg98/222101443689](https://www.facebook.com/photo/?fbid=5370410346375201&set=gm.1255139231909305&idorvanity=788404381916128))
+
 - 참여하시는 분들은 참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요.  5분이면 됩니다!
 <!-- 기존 내용중 한 줄 복사하여 마지막줄에 붙여넣기 하신후 내용을 본인것에 맞게 수정해 주세요 -->
 <!-- 수정이 끝나면 제일 아래에 Propose changes라는 녹색 버튼을 꾹 누르세요! -->
@@ -152,9 +144,9 @@
 [2020년 참여자 링크](https://phg98.github.io/hacktoberfestkorea2020/#current-participant-list)
 
 ## 관련 링크 {#associated-link}
-- 작년 내용을 보시려면 [Hacktoberfest Korea 2020](https://phg98.github.io/hacktoberfestkorea2020/)을 참고하세요
+- 작년 내용을 보시려면 [Hacktoberfest Korea 2021](https://phg98.github.io/hacktoberfestkorea2021/)을 참고하세요
 - 이 사이트의 Github 저장소 : [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea)
 - 페이스북 : [Hacktoberfest Korea Facebook](https://www.facebook.com/groups/788404381916128/)
 - 디스코드 : [Hacktoberfest Korea Discord](https://discord.com/invite/BD3V3NC)
-- 2020년도 행사 Github 저장소 : [Hacktoberfest Korea 2020](https://github.com/phg98/hacktoberfestkorea2020)
+- 2020년도 행사 Github 저장소 : [Hacktoberfest Korea 2021](https://github.com/phg98/hacktoberfestkorea2021)
 
