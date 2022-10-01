@@ -9,7 +9,7 @@ theme:
   palette:
     scheme: default
     primary: indigo
-  favicon: assets/favicon.png
+  favicon: assets/favicon.svg
 
 extra_css:
   - stylesheets/extra.css

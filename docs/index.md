@@ -1,7 +1,7 @@
 <!-- ![hacktoberfest 2021 coming soon](assets\coming soon.png) -->
 ![hacktoberfest full logo](assets\Hfest-Logo-2-Color-Void.svg)
 <center>
-   ![presented by](assets\presented by 2021.PNG)
+   ![presented by](assets\presented by 2022.png)
 </center>
 <h1>
       핵토버페스트 2022 행사의 등록이 시작되었습니다.<br>
@@ -32,8 +32,8 @@
 - DigitalOcean사에서 주관하는 오픈소스 소프트웨어 행사로서 올해로 9회째인 행사입니다.
 - 10월 한달동안 오픈소스 저장소에 작은 기여를 하면 **무료티셔츠**를 기념품으로 받을 수 있습니다.
 - 그외에도 [다양한 이벤트](https://hacktoberfest-swag.com/)들이 진행됩니다.
-![2020년 기념품](img\2020 tshirt.jpg)
-<center>2020년 기념품 티셔츠</center>
+![2021년 기념품](img\2021 tshirt.jpg)
+<center>2021년 기념품 티셔츠</center>
 
 ## 행사 규칙 {#rules-of-events}
 
@@ -45,7 +45,7 @@
 
 - 올해에는 40,000장의 티셔츠가 준비되어있습니다. 티셔츠 대신 '나무심기'를 선택하면 본인의 이름으로 나무를 심는 옵션도 있습니다.
 
-- 2020년도 행사시 일부 참가자들이 스팸 PR을 올려서 문제가 되었습니다. 좋은 취지의 행사를 계속 이어갈 수 있도록 **적절한 풀리퀘스트**를 작성하도록 유의하세요. 만약 저장소 관리자가 당신의 풀리퀘스트를 스팸이나 부적절하다고 신고할 경우 참가자격을 박탈당하게 됩니다. [세부사항참조](https://hacktoberfest.digitalocean.com/resources/qualitystandards)
+- 2020년도 행사시 일부 참가자들이 스팸 PR을 올려서 문제가 되었습니다. 좋은 취지의 행사를 계속 이어갈 수 있도록 **적절한 풀리퀘스트**를 작성하도록 유의하세요. 만약 저장소 관리자가 당신의 풀리퀘스트를 스팸이나 부적절하다고 신고할 경우 참가자격을 박탈당하게 됩니다. [세부사항참조](https://hacktoberfest.digitalocean.com/participation/#pr-mr-details)
 
 <!--
 ## 저장소 관리자 혜택 {#for-maintainer}
@@ -120,7 +120,7 @@
 
 - <s>[TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021) : html과 css파일만 추가하면 된다고 하네요.</s> **이 저장소는 Excluded Project라고 합니다. PR 보내신 분들은 확인해보세요!!**
 - <s>[Binary-Cumates/Hacktoberfest-21-Open-First-PR](https://github.com/Binary-Cumates/Hacktoberfest-21-Open-First-PR) : 자신의 프로필 이미지와 간단한 정보만 입력하면 됩니다!</s> **이 저장소는 Excluded Project라고 합니다. PR보내신 분들은확인해보세요!!**
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/CONTRIBUTING.md) : 프로그래밍과 관련된 무료 강의나 도서들을 아카이빙하는 프로젝트입니다. 간단하게 마크다운 파일만 수정하면 됩니다. (한글도 있음)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CONTRIBUTING-ko.md) : 프로그래밍과 관련된 무료 강의나 도서들을 아카이빙하는 프로젝트입니다. 간단하게 마크다운 파일만 수정하면 됩니다. (한글도 있음)
 - [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) :  멀티 클라우드 관리 SW
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : 기존의 man을 사용하는 매뉴얼보다 실용적이고 더 간편한 매뉴얼을 만드는 프로젝트입니다. 마크다운으로 만들어진 영문 매뉴얼을 번역하셔서 추가하시면 됩니다.
 - _좋은 영문 초보자용 프로젝트를 찾으셨나요? 링크해서 공유해주세요! 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요._
@@ -135,6 +135,8 @@
 
 - [phg98]([https://blog.naver.com/phg98/222101443689](https://www.facebook.com/photo/?fbid=5370410346375201&set=gm.1255139231909305&idorvanity=788404381916128))
 - [Davidyang2149](https://github.com/DavidYang2149)
+- [c2lv](https://blog.naver.com/hyeonjun7)
+
 
 - 참여하시는 분들은 참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요.  5분이면 됩니다!
 <!-- 기존 내용중 한 줄 복사하여 마지막줄에 붙여넣기 하신후 내용을 본인것에 맞게 수정해 주세요 -->
