@@ -119,7 +119,7 @@
 
 - <s>[TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021) : html과 css파일만 추가하면 된다고 하네요.</s> **이 저장소는 Excluded Project라고 합니다. PR 보내신 분들은 확인해보세요!!**
 - <s>[Binary-Cumates/Hacktoberfest-21-Open-First-PR](https://github.com/Binary-Cumates/Hacktoberfest-21-Open-First-PR) : 자신의 프로필 이미지와 간단한 정보만 입력하면 됩니다!</s> **이 저장소는 Excluded Project라고 합니다. PR보내신 분들은확인해보세요!!**
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/CONTRIBUTING.md) : 프로그래밍과 관련된 무료 강의나 도서들을 아카이빙하는 프로젝트입니다. 간단하게 마크다운 파일만 수정하면 됩니다. (한글도 있음)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CONTRIBUTING-ko.md) : 프로그래밍과 관련된 무료 강의나 도서들을 아카이빙하는 프로젝트입니다. 간단하게 마크다운 파일만 수정하면 됩니다. (한글도 있음)
 - [Cloud-Barista/CB-Tumblebug](https://github.com/cloud-barista/cb-tumblebug) :  멀티 클라우드 관리 SW
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) : 기존의 man을 사용하는 매뉴얼보다 실용적이고 더 간편한 매뉴얼을 만드는 프로젝트입니다. 마크다운으로 만들어진 영문 매뉴얼을 번역하셔서 추가하시면 됩니다.
 - _좋은 영문 초보자용 프로젝트를 찾으셨나요? 링크해서 공유해주세요! 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요._
