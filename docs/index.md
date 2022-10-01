@@ -1,7 +1,7 @@
 <!-- ![hacktoberfest 2021 coming soon](assets\coming soon.png) -->
 ![hacktoberfest full logo](assets\Hfest-Logo-2-Color-Void.svg)
 <center>
-   ![presented by](assets\presented by 2021.PNG)
+   ![presented by](assets\presented by 2022.png)
 </center>
 <h1>
       핵토버페스트 2022 행사의 등록이 시작되었습니다.<br>
