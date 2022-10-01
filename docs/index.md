@@ -4,7 +4,7 @@
    ![presented by](assets\presented by 2022.png)
 </center>
 <h1>
-      핵토버페스트 2022 글로벌 행사의 등록이 시작되었습니다.<br>
+      핵토버페스트 2022 글로벌 행사가 시작되었습니다.<br>
 </h1>
 <center>
       [공식 홈페이지로 가기](https://hacktoberfest.com/){: .md-button .md-button--primary }
@@ -15,6 +15,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/issues)
 
 ## 공지 사항 {#notice}
+- [핵토버페스트 서울 2022](https://event-us.kr/m/48142/1357) 지역 행사의 등록이 시작되었습니다.[이벤트 페이지로 가기](https://event-us.kr/m/48142/1357)
 - 올해에는 간단한 PR을 받는 초보자용 저장소들이 행사에서 제외되고 있습니다.(Excluded Project) PR보내실때 유의하시기 바랍니다.
 
 <center>
@@ -22,11 +23,6 @@
    <p> 이 사이트는 한국 개발자들을 위한 <b>비공식(Unofficial)</b> 사이트 입니다. </p>
    <p> 자세한 내용은 공식 홈페이지를 참고하세요.</p>
    [공식 홈페이지로 가기](https://hacktoberfest.digitalocean.com/){: .md-button .md-button--primary }
-</center>
-
-<center>
-   <h1> 핵토버페스트 서울 2022 지역 행사의 등록이 시작되었습니다. </h1>
-   [이벤트 페이지로 가기](https://event-us.kr/m/48142/1357){: .md-button .md-button--primary }
 </center>
 
 <!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/b_0rjUNK5zY' frameborder='0' allowfullscreen></iframe></div>
