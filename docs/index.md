@@ -4,25 +4,29 @@
    ![presented by](assets\presented by 2022.png)
 </center>
 <h1>
-      핵토버페스트 2022 행사의 등록이 시작되었습니다.<br>
+      핵토버페스트 2022 글로벌 행사의 등록이 시작되었습니다.<br>
 </h1>
 <center>
       [공식 홈페이지로 가기](https://hacktoberfest.com/){: .md-button .md-button--primary }
 </center>
-      
-      
+
 [![GitHub stars](https://img.shields.io/github/stars/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/network)
 [![GitHub issues](https://img.shields.io/github/issues/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/issues)
 
 ## 공지 사항 {#notice}
 - 올해에는 간단한 PR을 받는 초보자용 저장소들이 행사에서 제외되고 있습니다.(Excluded Project) PR보내실때 유의하시기 바랍니다.
-      
+
 <center>
    <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
    <p> 이 사이트는 한국 개발자들을 위한 <b>비공식(Unofficial)</b> 사이트 입니다. </p>
    <p> 자세한 내용은 공식 홈페이지를 참고하세요.</p>
    [공식 홈페이지로 가기](https://hacktoberfest.digitalocean.com/){: .md-button .md-button--primary }
+</center>
+
+<center>
+   <h1> 핵토버페스트 서울 2022 지역 행사의 등록이 시작되었습니다. </h1>
+   [이벤트 페이지로 가기](https://event-us.kr/m/48142/1357){: .md-button .md-button--primary }
 </center>
 
 <!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/b_0rjUNK5zY' frameborder='0' allowfullscreen></iframe></div>
@@ -39,7 +43,7 @@
 
 - 먼저 **행사 등록**을 해야 합니다. [공식 홈페이지](https://hacktoberfest.digitalocean.com/)에서 등록 가능합니다. 9/26~10/31 기간중 언제든 등록가능합니다. 등록을 위해서는 Github 또는 Gitlab 계정이 필요합니다.
 
-- Github 또는 Gitlab의 저장소중 'hacktoberfest'라는 topic이 붙어있는 저장소에 **4개의 풀리퀘스트**를 작성하면 됩니다. 
+- Github 또는 Gitlab의 저장소중 'hacktoberfest'라는 topic이 붙어있는 저장소에 **4개의 풀리퀘스트**를 작성하면 됩니다.
 
 - 작성된 풀리퀘스트에 대해서 **저장소 관리자가 승인하거나 머지**하면 카운트됩니다. 4개의 풀리퀘스트가 카운트되면 기념품을 받을 자격이 됩니다.
 
@@ -73,7 +77,7 @@
 
 - '코드리뷰, 좀 쉬운 방법은 없을까? 블로그'의 [2020년 Hacktoberfest참가 후기](https://blog.naver.com/phg98/222126175319)
 
-2019년 이전 후기 
+2019년 이전 후기
 
 - '코드리뷰, 좀 쉬운 방법은 없을까? 블로그'의 [2018년 Hacktoberfest참가 후기](https://blog.naver.com/phg98/221374231575)
 - '플라네타리움 엔지니어링 스낵'의 2019년 [저희와 함께 Hacktoberfest에 참가해봅시다!](https://snack.planetarium.dev/kor/2019/09/hacktoberfest/)
@@ -115,7 +119,7 @@
 
 ## 영문 초보자용 프로젝트 {#a-project-for-beginners}
 
-영어에 두려움이 없으시다면 아래의 초보자용 사이트를 참고하세요.  
+영어에 두려움이 없으시다면 아래의 초보자용 사이트를 참고하세요.
 [공식홈페이지](https://hacktoberfest.digitalocean.com/)에서 더 많은 프로젝트를 찾을 수 있습니다.
 
 - <s>[TAbhay/Hactoberfest-2021](https://github.com/TAbhay/Hactoberfest-2021) : html과 css파일만 추가하면 된다고 하네요.</s> **이 저장소는 Excluded Project라고 합니다. PR 보내신 분들은 확인해보세요!!**
