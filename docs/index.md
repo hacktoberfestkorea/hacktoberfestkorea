@@ -100,6 +100,7 @@
 - [reading_books_record_repository](https://github.com/saseungmin/reading_books_record_repository): 책을 읽고 정리한 Repository이고, [Summary book 웹사이트](https://saseungmin.github.io/reading_books_record_repository/)로 되어있습니다. 오탈자를 수정하지 않아 오탈자가 매우 많습니다. 초보자도 쉽게 오탈자를 찾아 수정하시고 기여할 수 있습니다. 기여 방법은 [여기](https://github.com/saseungmin/reading_books_record_repository#-hacktoberfest-2021-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98-%EB%B0%A9%EB%B2%95)를 참고해주세요. (난이도: 하)
 - [Korean Dev Books](https://github.com/HurSungYun/korean-dev-books): 개발자들 또는 개발자가 되기를 희망하는 사람들을 위한 한국어 개발/CS 서적 큐레이션 리스트입니다. 출판된지 시간이 꽤 지나더라도 outdated 될 내용이 적은 책들 위주로 선정하였으며, 번역서의 경우 번역의 퀄리티를 고려했습니다. (난이도: 하)
 - [Hacktoberfest Badge](https://github.com/phg98/hacktoberfest-badge): 핵토버페스트 PR을 몇개 올렸는지를 표시해주는 깃헙 프로필용 배지를 제공합니다 (난이도: 중하)
+- [Next.js Starter](https://github.com/DavidYang2149/nextjs-starter) : Next.js에 테스트 도구를 추가한 보일러 플레이트입니다. 타입스크립트를 기본으로 하고 테스트를 위한 Jest, Testing Library 및 Cypress가 포함되어 있습니다. (난이도: 중하)
 - _저장소를 운영하시는 분들중에 참여하고자 하시는 분들은 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 저장소에 ''hacktoberfest'라는 topic을 꼭 넣어주시구요. 응원합니다!_
 <!-- 가능하면 한글로 된 이슈에는 "핵토버페스트"라는 한글 라벨도 붙여주시면 찾기 좋을것 같습니다. -->
 <!-- 저장소 운영하시는 분들은 다들 잘 아실테니까 설명 필요없을것 같은데, 혹시 초보자인데 등록하시려면 아래 내용대로만 하면 됩니다. -->
@@ -133,6 +134,7 @@
 ## 현재 참여자 리스트 {#current-participant-list}
 
 - [phg98]([https://blog.naver.com/phg98/222101443689](https://www.facebook.com/photo/?fbid=5370410346375201&set=gm.1255139231909305&idorvanity=788404381916128))
+- [Davidyang2149](https://github.com/DavidYang2149)
 
 - 참여하시는 분들은 참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요.  5분이면 됩니다!
 <!-- 기존 내용중 한 줄 복사하여 마지막줄에 붙여넣기 하신후 내용을 본인것에 맞게 수정해 주세요 -->
