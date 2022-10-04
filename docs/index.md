@@ -111,6 +111,7 @@
 <!-- 그럼 더 복잡한 화면이 나오는데.. 또 다시 'Create Pull Request'라는 녹색 버튼을 꾹 누르세요! -->
 <!-- 그럼 뭔가 더 해야할 것 같은 화면이 나오는데, 안해도 됩니다. 사이트관리자가 승인하면 게시되구요, 링크가 깨진다던지 문제가 있다면 연락이 옵니다. -->
 
+[2021년 핵토버페스트에 참가했던 한글 프로젝트 링크](https://phg98.github.io/hacktoberfestkorea2021/#hangul-project)
 [2020년 핵토버페스트에 참가했던 한글 프로젝트 링크](https://phg98.github.io/hacktoberfestkorea2020/#hangul-project)
 
 ## 영문 초보자용 프로젝트 {#a-project-for-beginners}
@@ -147,6 +148,7 @@
 <!-- 그럼 더 복잡한 화면이 나오는데.. 또 다시 'Create Pull Request'라는 녹색 버튼을 꾹 누르세요! -->
 <!-- 그럼 뭔가 더 해야할 것 같은 화면이 나오는데, 안해도 됩니다. 사이트관리자가 승인하면 게시되구요, 링크가 깨진다던지 문제가 있다면 연락이 옵니다. -->
 
+[2021년 참여자 링크](https://phg98.github.io/hacktoberfestkorea2021/#current-participant-list)
 [2020년 참여자 링크](https://phg98.github.io/hacktoberfestkorea2020/#current-participant-list)
 
 ## 관련 링크 {#associated-link}
@@ -154,5 +156,5 @@
 - 이 사이트의 Github 저장소 : [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea)
 - 페이스북 : [Hacktoberfest Korea Facebook](https://www.facebook.com/groups/788404381916128/)
 - 디스코드 : [Hacktoberfest Korea Discord](https://discord.com/invite/BD3V3NC)
-- 2020년도 행사 Github 저장소 : [Hacktoberfest Korea 2021](https://github.com/phg98/hacktoberfestkorea2021)
+- 2021년도 행사 Github 저장소 : [Hacktoberfest Korea 2021](https://github.com/phg98/hacktoberfestkorea2021)
 
