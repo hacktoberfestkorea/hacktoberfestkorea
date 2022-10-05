@@ -15,8 +15,9 @@
 [![GitHub issues](https://img.shields.io/github/issues/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/issues)
 
 ## 공지 사항 {#notice}
-- [핵토버페스트 서울 2022](https://event-us.kr/m/48142/1357) 지역 행사의 등록이 시작되었습니다.[이벤트 페이지로 가기](https://event-us.kr/m/48142/1357)
-- 올해에는 간단한 PR을 받는 초보자용 저장소들이 행사에서 제외되고 있습니다.(Excluded Project) PR보내실때 유의하시기 바랍니다.
+- [핵토버페스트 서울 2022](https://event-us.kr/m/48142/1357) 지역 행사의 등록이 시작되었습니다.[이벤트 페이지로 가기](https://event-us.kr/m/48142/1357)  
+- 올해에는 간단한 PR을 받는 초보자용 저장소들이 행사에서 제외되고 있습니다.(Excluded Project) PR보내실때 유의하시기 바랍니다.  
+- 온라인으로 모여 같이 도전하는 소소한 모임이 열립니다. 10/08 토,09 일 10:00 AM - 20:00 PM GatherTown  [안내 링크](https://gist.github.com/ohahohah/73877460722c0922195bac995479cfae)  
 
 <center>
    <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
