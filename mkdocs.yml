@@ -1,4 +1,4 @@
-site_name: 2021 Hacktoberfest Korea Unofficial
+site_name: 2022 Hacktoberfest Korea Unofficial
 copyright: This is korean fan page of Hacktoberfest
 site_url: 'https://www.hacktoberfestkorea.com/'
 
@@ -8,8 +8,14 @@ theme:
   custom_dir: 'theme'
   palette:
     scheme: default
-    primary: red
-  favicon: assets/favicon.png
+    primary: indigo
+  favicon: assets/favicon.svg
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascript/ie_compatibility.js
 
 nav:
   - Home: index.md
@@ -18,7 +24,7 @@ nav:
   - 초보자용 가이드: beginners_guide.md
   - 작업환경 구성 방법: build.md
   - 자주 묻는 질문: faq.md
-  - 2020년 자료 : https://phg98.github.io/hacktoberfestkorea2020/
+  - 2021년 자료 : https://phg98.github.io/hacktoberfestkorea2021/
 
 markdown_extensions:
   - attr_list
