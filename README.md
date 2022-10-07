@@ -22,12 +22,12 @@
 개발자 분들의 많은 참여를 부탁드립니다.
 
 ## 참고 가이드
-풀리퀘스트(Pull Request)를 만드는데 익숙하지 않은 초보자분은 아래 가이드를 보시면 도움이 됩니다.
+풀 리퀘스트(Pull Request)를 만드는데 익숙하지 않은 초보자분은 아래 가이드를 보시면 도움이 됩니다.
 
 * [왕초보자 가이드](https://www.hacktoberfestkorea.com/super_beginners_guide/)
 * [초보자 가이드](https://www.hacktoberfestkorea.com/beginners_guide/)
 
 ## 외부 링크
-facebook 'Hacktoberfest Korea' 그룹과 discord 'Hacktoberfest Korea' 서버에서 Hacktoberfest와 관련된 정보를 공유하고 있습니다.
+Facebook `Hacktoberfest Korea` 그룹과 Discord `Hacktoberfest Korea` 서버에서 Hacktoberfest와 관련된 정보를 공유하고 있습니다.
 * [Facebook - hacktoberfest korea 그룹으로 가기](https://www.facebook.com/groups/788404381916128/?ref=share)
 * [Discord - hacktoberfest korea 서버로 가기](https://discord.gg/BD3V3NC)
