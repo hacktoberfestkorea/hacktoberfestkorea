@@ -33,7 +33,7 @@
 - DigitalOcean사에서 주관하는 오픈소스 소프트웨어 행사로서 올해로 9회째인 행사입니다.
 - 10월 한달동안 오픈소스 저장소에 작은 기여를 하면 **무료티셔츠**를 기념품으로 받을 수 있습니다.
 - 그외에도 [다양한 이벤트](https://hacktoberfest-swag.com/)들이 진행됩니다.
-![2021년 기념품](img\2021 tshirt.jpg)
+<center>![2021년 기념품](img\2021 tshirt.jpg)</center>
 <center>2021년 기념품 티셔츠</center>
 
 ## 행사 규칙 {#rules-of-events}
