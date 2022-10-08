@@ -135,7 +135,7 @@
 
 ## 현재 참여자 리스트 {#current-participant-list}
 
-- [phg98]([https://blog.naver.com/phg98/222101443689](https://www.facebook.com/photo/?fbid=5370410346375201&set=gm.1255139231909305&idorvanity=788404381916128))
+- [phg98](https://www.facebook.com/photo/?fbid=5370410346375201&set=gm.1255139231909305&idorvanity=788404381916128)
 - [Lovefield](https://dico.me/etc/articles/317)
 - [Davidyang2149](https://github.com/DavidYang2149)
 - [c2lv](https://blog.naver.com/hyeonjun7)
