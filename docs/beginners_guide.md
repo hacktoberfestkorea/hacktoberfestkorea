@@ -20,6 +20,18 @@ fork가 끝나면 좌측상단에 저장소 이름이 표시됩니다. (phg9898�
 이제 프로젝트가 본인의 계정으로 복사된 것입니다.  
 이제부터 수정이 가능합니다.
 
+## workflow 활성화하기 {#enable-workflow}
+> [승인을 기다리는 동안에...](#while-waiting-for-approval)가이드를 실행하려면 해당 단계를 실행하셔야 합니다.
+
+좌상단의 'Actions'버튼을 클릭합니다.
+!['Actions'버튼](img/actions.png)
+
+workflow를 활성화하기 위해 아래의 초록색 버튼을 클릭합니다.
+![enable_workflows](img/enable_workflows.png)
+
+이제 master 브랜치에 변경점이 생겼을 때 workflow가 작동해 gh-pages 브랜치가 생성되는 것을 볼 수 있습니다.
+![gh-pages_branch](img/gh-pages_branch.png)
+
 ## 내용 수정하기 {#to-modify-the-content}
 fork된 저장소에서 수정할 파일을 찾아 클릭합니다.  
 파일내용이 표시되면 우측 상단의 연필 아이콘을 클릭하면 수정이 가능합니다.  
