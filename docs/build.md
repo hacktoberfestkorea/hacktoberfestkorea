@@ -11,6 +11,15 @@
 phg98/hacktoberfestkorea --> [자신의GITHUB닉네임]/hacktoberfestkorea
 ```
 
+### workflow 활성화하기 {#enable-workflow}
+> 해당 단계를 실행하셔야 [작업환경 설정 방법 - GitHub](#how-to-set-up-a-work-environment)를 실행하실 수 있습니다.
+
+포크한 github 저장소에서 좌상단의 'Actions'버튼을 클릭합니다.
+!['Actions'버튼](img/actions.png)
+
+workflow를 활성화하기 위해 아래의 초록색 버튼을 클릭합니다.
+![enable_workflows](img/enable_workflows.png)
+
 ## 작업환경 설정 - Local {#local}
 
 ### 작업하고싶은 폴더로 이동 {#go-to-the-folder-you-want-to-work-with}
