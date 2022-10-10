@@ -76,7 +76,7 @@ mkdocs serve
 
 ## 작업환경 설정 방법 - GitHub {#how-to-set-up-a-work-environment}
 
-### GitHub Pages 사용 {#using-gitHub-pages}
+### GitHub Pages 사용 {#using-github-pages}
 
 GitHub 저장소 설정에 들어갑니다
 
