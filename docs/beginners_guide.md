@@ -41,18 +41,6 @@ fork된 저장소에서 수정할 파일을 찾아 클릭합니다.
 
 이제 풀리퀘스트가 만들어졌습니다. 원본 프로젝트의 관리자가 승인하면 반영됩니다.  
 
-## 승인을 기다리는 동안에... {#while-waiting-for-approval}
-내 계정에서도 웹사이트를 띄울 수 있습니다.  
-'Settings'탭을 누릅니다.  
-![settings](img/settings.png)  
-
-중간쯤의 'Github Pages'항목에서 'Branch:Master'버튼을 누르고 'gh-pages'를 선택한후 'save'버튼을 누릅니다.  
-![gh-pages](img/gh-pages.png)  
-
-1분정도 기다리면 'Your site is published at https://<계정이름>.github.io/hacktoberfestkorea'라고 표시됩니다.  
-링크부분을 클릭하면 웹사이트가 표시됩니다.  
-아까 수정한 부분이 잘 반영되었는지 확인해 보세요.  
-
 ## 끝! {#end}
 혹시 중간에 잘 안되는 부분이 있다면 인터넷 검색을 해보시고, 그래도 안된다면 phg98@naver.com으로 질문해 주세요.  
 이제 첫 풀리퀘스트를 해보셨다면 [이슈페이지](https://github.com/phg98/hacktoberfestkorea/issues)로 가서 다른 적당한 항목이 있는지 확인해 보세요.  

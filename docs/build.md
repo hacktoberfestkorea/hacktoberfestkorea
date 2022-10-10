@@ -76,15 +76,14 @@ mkdocs serve
 
 ## 작업환경 설정 방법 - GitHub {#how-to-set-up-a-work-environment}
 
-### GitHub Pages 사용 {#using-github-pages}
-
-GitHub 저장소 설정에 들어갑니다
-
-[https://github.com/[자신의GITHUB닉네임]/hacktoberfestkorea/settings](https://github.com/[자신의GITHUB닉네임]/hacktoberfestkorea/settings)
-
-하단에 있는 **GitHub Pages** 탭에서
-Source를 None에서 gh-pages로 변경하고, 폴더를 /(root) 로 지정후 저장합니다
-
 ### 웹사이트 확인하기 {#github-check-the-website}
 
-[https://[자신의GITHUB닉네임].github.io/hacktoberfestkorea](https://[자신의GITHUB닉네임].github.io/hacktoberfestkorea)에 접속합니다
+'Settings'탭을 누릅니다.  
+![settings](img/settings.png)  
+
+중간쯤의 'Github Pages'항목에서 'Branch:Master'버튼을 누르고 'gh-pages'를 선택한후 'save'버튼을 누릅니다.  
+![gh-pages](img/gh-pages.png)  
+
+1분정도 기다리면 'Your site is published at https://<계정이름>.github.io/hacktoberfestkorea'라고 표시됩니다.  
+링크부분을 클릭하면 웹사이트가 표시됩니다.  
+수정한 부분이 잘 반영되었는지 확인해 보세요.  
