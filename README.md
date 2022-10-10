@@ -3,6 +3,7 @@
   <h1>
     Hacktoberfest Korea Unofficial Site
   </h1>
+  <a href="https://hacktoberfest.com/">공식 웹사이트</a> •
   <a href="https://www.hacktoberfestkorea.com/">비공식 웹사이트</a> •
   <a href="https://www.facebook.com/groups/788404381916128">페이스북 그룹</a> •
   <a href="https://discord.gg/BD3V3NC">디스코드 서버</a>
