@@ -4,7 +4,7 @@
    ![presented by](assets\presented by 2022.png)
 </center>
 <h1>
-      핵토버페스트 2022 글로벌 행사가 시작되었습니다.<br>
+      핵토버페스트 2022 글로벌 행사가 종료되었습니다.<br>
 </h1>
 <center>
       [공식 홈페이지로 가기](https://hacktoberfest.com/){: .md-button .md-button--primary }
