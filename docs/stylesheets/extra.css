@@ -1,3 +1,24 @@
 body {
     word-break: keep-all;
 }
+
+#button{
+    border:none;
+    display:flex;
+    flex-direction: row;
+    width: fit-content;
+    gap:8px;
+    align-items: center;
+    padding:12px 15px; 
+    
+}
+
+.image{
+    width:80px;
+    color: white;
+}
+
+
+
+
+    

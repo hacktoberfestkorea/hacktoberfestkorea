@@ -7,7 +7,9 @@
       핵토버페스트 2022 글로벌 행사가 종료되었습니다.<br>
 </h1>
 <center>
-      [공식 홈페이지로 가기](https://hacktoberfest.com/){: .md-button .md-button--primary }
+      <!--
+   [공식 홈페이지로 가기 ](https://hacktoberfest.digitalocean.com/){: .md-button .md-button--primary }-->
+  <a target="_blank" id="button" class=" md-button md-button--primary" href="https://hacktoberfest.digitalocean.com/"><img class="image" src="assets\Hfest-Logo-2-Color-Manga.svg">공식 홈페이지로 가기</a>
 </center>
 
 [![GitHub stars](https://img.shields.io/github/stars/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/stargazers)
@@ -23,8 +25,12 @@
    <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/> 멋진 티셔츠를 받을 수 있는 행사입니다! </h1>
    <p> 이 사이트는 한국 개발자들을 위한 <b>비공식(Unofficial)</b> 사이트 입니다. </p>
    <p> 자세한 내용은 공식 홈페이지를 참고하세요.</p>
-   [공식 홈페이지로 가기](https://hacktoberfest.digitalocean.com/){: .md-button .md-button--primary }
+  <!--
+   [공식 홈페이지로 가기 ](https://hacktoberfest.digitalocean.com/){: .md-button .md-button--primary }-->
+  <a target="_blank" id="button" class=" md-button md-button--primary" href="https://hacktoberfest.digitalocean.com/"><img class="image" src="assets\Hfest-Logo-2-Color-Manga.svg">공식 홈페이지로 가기</a>
 </center>
+
+
 
 <!-- <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/b_0rjUNK5zY' frameborder='0' allowfullscreen></iframe></div>
 <p>(한글자막 제공 : 이소울님)</p>  -->
