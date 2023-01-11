@@ -86,7 +86,7 @@
 - '플라네타리움 엔지니어링 스낵'의 2019년 [저희와 함께 Hacktoberfest에 참가해봅시다!](https://snack.planetarium.dev/kor/2019/09/hacktoberfest/)
 - '허원철의 개발 블로그'의 2019년 [2019 컨트리뷰톤 (feat. Armeria)](https://heowc.dev/2019/11/04/2019-contributon-feat-armeria/)
 - '매일 성장하기 블로그'의 2018년 [Hacktoberfest 2018 후기](https://edykim.com/ko/post/hacktoberfest-2018/)
-- 'amoseui 블로그'의 2018년 [Hacktoberfest 2018 후기](https://blog.amoseui.com/posts/hacktoberfest-2018)
+- 'amoseui 블로그'의 2018년 [Hacktoberfest 2018 후기](https://blog.amoseui.com/hacktoberfest-2018)
 - _기존에 참여하셨었나요? 후기를 링크해서 공유해주세요! 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요._
 
 ## 한글 프로젝트 {#hangul-project}
