@@ -4,7 +4,7 @@ site_url: 'https://www.hacktoberfestkorea.com/'
 
 theme:
   name: material
-  language: kr
+  language: ko
   custom_dir: 'theme'
   palette:
     scheme: default
