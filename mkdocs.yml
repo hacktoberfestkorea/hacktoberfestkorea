@@ -1,6 +1,6 @@
 site_name: 2022 Hacktoberfest Korea Unofficial
 copyright: This is korean fan page of Hacktoberfest
-site_url: 'https://www.hacktoberfestkorea.com/'
+site_url: 'https://hacktoberfestkorea.com/'
 
 theme:
   name: material
