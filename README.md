@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./docs/assets/Email Banners-Lite.png" width="300"/>
+  <img src="docs/assets/hf10_horz_fcl_rgb.png"/>
   <h1>
-    Hacktoberfest Korea Unofficial Site
+    Hacktoberfest Korea 2023
   </h1>
   <a href="https://hacktoberfest.com/">공식 웹사이트</a> •
   <a href="https://hacktoberfestkorea.com/">비공식 웹사이트</a> •
@@ -25,10 +25,11 @@
 ## 참고 가이드
 풀 리퀘스트(Pull Request)를 만드는데 익숙하지 않은 초보자분은 아래 가이드를 보시면 도움이 됩니다.
 
-* [왕초보자 가이드](https://hacktoberfestkorea.com/super_beginners_guide/)
-* [초보자 가이드](https://hacktoberfestkorea.com/beginners_guide/)
+- [왕초보자 가이드](https://hacktoberfestkorea.com/super_beginners_guide/)
+- [초보자 가이드](https://hacktoberfestkorea.com/beginners_guide/)
 
 ## 외부 링크
 Facebook `Hacktoberfest Korea` 그룹과 Discord `Hacktoberfest Korea` 서버에서 Hacktoberfest와 관련된 정보를 공유하고 있습니다.
-* [Facebook - hacktoberfest korea 그룹으로 가기](https://facebook.com/groups/788404381916128/?ref=share)
-* [Discord - hacktoberfest korea 서버로 가기](https://discord.gg/BD3V3NC)
+
+- [Facebook - hacktoberfest korea 그룹으로 가기](https://facebook.com/groups/788404381916128/?ref=share)
+- [Discord - hacktoberfest korea 서버로 가기](https://discord.gg/BD3V3NC)
