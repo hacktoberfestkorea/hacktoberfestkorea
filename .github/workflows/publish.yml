@@ -16,4 +16,5 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 98c6bf72a6de9a710c59c50c56db8299
           projectName: hacktoberfestkorea
+          directory: .
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
