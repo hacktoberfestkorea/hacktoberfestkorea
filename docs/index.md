@@ -13,7 +13,7 @@
   <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/>여러분의 이름으로 나무를 심을수 있습니다! </h1>
   <p> 이 사이트는 한국 개발자들을 위한 <b>비공식(Unofficial)</b> 사이트 입니다. </p>
   <p> 자세한 내용은 공식 홈페이지를 참고하세요.</p>
-  <a target="_blank" id="button" class="md-button md-button--primary" href="https://hacktoberfest.cm"><img class="image" src="assets/hf10_icon_fcl_rgb.png">공식 홈페이지로 가기</a>
+  <a target="_blank" id="button" class="md-button md-button--primary" href="https://hacktoberfest.com"><img class="image" src="assets/hf10_icon_fcl_rgb.png">공식 홈페이지로 가기</a>
 </center>
 
 ## 핵토버페스트(Hacktoberfest)란?
