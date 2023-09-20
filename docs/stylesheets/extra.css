@@ -3,22 +3,30 @@ body {
 }
 
 #button{
-    border:none;
-    display:flex;
+    border: none;
+    display: flex;
     flex-direction: row;
     width: fit-content;
-    gap:8px;
+    gap: 8px;
     align-items: center;
-    padding:12px 15px; 
-    
+    padding: 12px 15px;
 }
 
 .image{
-    width:80px;
+    width: 80px;
     color: white;
 }
 
+@font-face {
+    font-family: "D2Coding", monospace;
+    src: url("//cdn.jsdelivr.net/gh/wan2land/d2coding/d2coding-ligature-subset.css");
+}
 
-
-
-    
+[data-md-color-scheme="default"] {
+    --md-default-bg-color: #0F0913;
+    --md-primary-fg-color: #0F0913;
+    --md-default-fg-color--light: #EFEDEF;
+    --md-default-fg-color: #EFEDEF;
+    --md-accent-fg-color: #FFFBA4;
+    --md-typeset-a-color: #FFFBA4;
+}
