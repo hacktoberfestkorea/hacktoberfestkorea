@@ -15,7 +15,7 @@
 
 <br />
 
-> 많은 분들의 기여로 제작된 이 사이트는 '[<img src="https://hacktoberfestkorea.com/assets/Hfest-Logo-2-Color-Void.svg" width="200"/>](https://hacktoberfestkorea.com)'에서 확인하실 수 있습니다.
+> 많은 분들의 기여로 제작된 이 사이트는 '[<img src="docs/assets/hf10_icon_fcl_rgb.png" width="200"/>](https://hacktoberfestkorea.com)'에서 확인하실 수 있습니다.
 
 ## 소개
 한국어로 Hacktoberfest를 소개하고 정보를 나누는 사이트입니다.\
