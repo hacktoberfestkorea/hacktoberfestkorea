@@ -93,7 +93,7 @@
 - _좋은 영문 초보자용 프로젝트를 찾으셨나요? 링크해서 공유해주세요! 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요._
 
 ## 현재 참여자 리스트 {#current-participant-list}
-
+- [seok] (https://github.com/bentraxgel)
 - [soulee-dev](https://github.com/soulee-dev)
 - 참여하시는 분들은 참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 5분이면 됩니다!
 
