@@ -101,6 +101,7 @@
 - [jaekkang](https://github.com/jaekkang)
 - [seunghye218](https://github.com/seunghye218)
 - [42sungwook](https://github.com/42sungwook)
+- [jwoo](https://github.com/Jiwon-Woo)
 - 참여하시는 분들은 참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 5분이면 됩니다!
 
 ## 관련 링크 {#associated-link}
