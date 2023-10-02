@@ -16,6 +16,8 @@
   <a target="_blank" id="button" class="md-button md-button--primary" href="https://hacktoberfest.com"><img class="image" src="assets/hf10_icon_fcl_rgb.png">공식 홈페이지로 가기</a>
 </center>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3a7avJAbX4g?si=NtwvSYpRyzTel7T7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 핵토버페스트(Hacktoberfest)란?
 
 - DigitalOcean에서 주관하는 오픈소스 소프트웨어 행사로서 올해로 10회째인 행사입니다.
