@@ -5,9 +5,9 @@
 <img class="logo" src="assets/illa.svg" alt="illa logo" style="margin-right: 20px;">
 <img src="assets/appwrite.svg" alt="appwrite logo" width="128" height="100%">
 
-[![GitHub stars](https://img.shields.io/github/stars/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/network)
-[![GitHub issues](https://img.shields.io/github/issues/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/issues)
+[![GitHub stars](https://img.shields.io/github/stars/hacktoberfestkorea/hacktoberfestkorea)](https://github.com/hacktoberfestkorea/hacktoberfestkorea/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/hacktoberfestkorea/hacktoberfestkorea)](https://github.com/hacktoberfestkorea/hacktoberfestkorea/network)
+[![GitHub issues](https://img.shields.io/github/issues/hacktoberfestkorea/hacktoberfestkorea)](https://github.com/hacktoberfestkorea/hacktoberfestkorea/issues)
 
 <center>
   <h1> Hacktoberfest는 오픈 소스를 지원하고, <br/>여러분의 이름으로 나무를 심을수 있습니다! </h1>
@@ -27,7 +27,7 @@
 - 먼저 **행사 등록**을 해야 합니다. [공식 홈페이지](https://hacktoberfest.com)에서 등록 가능합니다. 9/26~10/31 기간중 언제든 등록가능합니다. 등록을 위해서는 Github 또는 Gitlab 계정이 필요합니다.
 - Github 또는 Gitlab의 저장소중 'hacktoberfest'라는 topic이 붙어있는 저장소에 **4개의 풀리퀘스트**를 작성하면 됩니다.
 - 작성된 풀리퀘스트에 대해서 **저장소 관리자가 승인하거나 머지**하면 카운트됩니다. 4개의 풀리퀘스트가 카운트되면 기념품을 받을 자격이 됩니다.
-- 올해에는 40,000장의 티셔츠가 준비되어있습니다. 티셔츠 대신 '나무심기'를 선택하면 본인의 이름으로 나무를 심는 옵션도 있습니다.
+- 올해에는 본인의 이름으로 나무를 심을수 있습니다.
 - 2020년도 행사시 일부 참가자들이 스팸 PR을 올려서 문제가 되었습니다. 좋은 취지의 행사를 계속 이어갈 수 있도록 **적절한 풀리퀘스트**를 작성하도록 유의하세요. 만약 저장소 관리자가 당신의 풀리퀘스트를 스팸이나 부적절하다고 신고할 경우 참가자격을 박탈당하게 됩니다. [세부사항 참조](https://hacktoberfest.digitalocean.com/participation/#pr-mr-details)
 
 ## 로우코드, 노코드 참여 {#low-code-no-code}
@@ -102,7 +102,7 @@
 - [seunghye218](https://github.com/seunghye218)
 - [42sungwook](https://github.com/42sungwook)
 - [jwoo](https://github.com/Jiwon-Woo)
-- [seok] (https://github.com/bentraxgel)
+- [seok](https://github.com/bentraxgel)
 - [mixsung](https://github.com/mixsung)
 - [moaoh](https://github.com/moaoh)
 - 참여하시는 분들은 참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 5분이면 됩니다!
