@@ -114,8 +114,9 @@
 
 ## 관련 링크 {#associated-link}
 
-- 작년 내용을 보시려면 [Hacktoberfest Korea 2021](https://phg98.github.io/hacktoberfestkorea2021/)을 참고하세요
-- 이 사이트의 Github 저장소 : [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea)
+- 작년 내용을 보시려면 [2022 Hacktoberfest Korea Unofficial](https://2022.hacktoberfestkorea.com)을 참고하세요
+- 이 사이트의 Github 저장소 : [Hacktoberfest Korea](https://github.com/hacktoberfestkorea/hacktoberfestkorea)
 - 페이스북 : [Hacktoberfest Korea Facebook](https://www.facebook.com/groups/788404381916128/)
 - 디스코드 : [Hacktoberfest Korea Discord](https://discord.com/invite/BD3V3NC)
+- 2022년도 행사 Github 저장소 : [Hacktoberfest Korea 2022](https://github.com/hacktoberfestkorea/hacktoberfestkorea/tree/2022)
 - 2021년도 행사 Github 저장소 : [Hacktoberfest Korea 2021](https://github.com/phg98/hacktoberfestkorea2021)
