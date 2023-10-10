@@ -33,3 +33,14 @@ Facebook `Hacktoberfest Korea` 그룹과 Discord `Hacktoberfest Korea` 서버에
 
 - [Facebook - hacktoberfest korea 그룹으로 가기](https://facebook.com/groups/788404381916128/?ref=share)
 - [Discord - hacktoberfest korea 서버로 가기](https://discord.gg/BD3V3NC)
+
+## 기여자 목록
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
