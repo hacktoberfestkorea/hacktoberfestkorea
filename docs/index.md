@@ -43,6 +43,12 @@
 
 이전에 참여했던 분들중 후기를 쓰셨던 분들은 아래에 링크해 주시면 새로운 사람들이 둘러보는데 도움이 되겠습니다.
 
+2022년 후기
+
+- '코딩과 나 블로그'의 [핵토버페스트 Hacktoberfest 2022 참가 후기](https://bananajeong.tistory.com/730)
+- '생활밀착형 개발자 밤팔이 블로그'의 [[Hacktoberfest] 핵토버페스트 2022](https://blog.naver.com/hyeonjun7/222899862893)
+- 'mirusu400 블로그'의 [Hacktoberfest 2022 참가 후기](https://blog.naver.com/mirusu400/222921057382)
+
 2021년 후기
 
 - 'Mike Kim 개발 블로그'의 [2021 핵토버페스트 첫 참가기!](https://kys9261.github.io/2021/10/20/programming/life/2021-hacktoberfest/)
@@ -118,6 +124,7 @@
 - [petanerd](https://github.com/petanerd)
 - [BORA](https://github.com/BORA040126)
 - [wannahappyaroundme](https://github.com/wannahappyaroundme)
+- [kshjessica](https://github.com/kshjessica)
 - 참여하시는 분들은 참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 5분이면 됩니다!
 
 ## 관련 링크 {#associated-link}
