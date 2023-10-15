@@ -187,8 +187,8 @@ Now that you've made your first pull request, head over to the [이슈페이지]
 
 ### Note: This document is intended for beginners, so there are some things that are intentionally left unexplained. {#reference}
 * Markdown syntax.
-  * [마크다운 기본 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-  * [마크다운 확장 문법](https://eatchangmyeong.github.io/syntax/)
+  * [Markdown basic syntax](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+  * [Markdown Extended Syntax](https://eatchangmyeong.github.io/syntax/)
 * Updating changes to the original project while editing
 * Writing a good message when committing
 * How to use Git 
