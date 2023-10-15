@@ -1,0 +1,21 @@
+name: Auto Add Hacktoberfest Tag
+on:
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  add_hacktoberfest_tag:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check Out Repository
+      uses: actions/checkout@v2
+
+    - name: Add Hacktoberfest Tag
+      run: |
+        TAG_NAME="hacktoberfest"
+        COMMIT_SHA=$(git rev-parse HEAD)
+        git tag -a $TAG_NAME -m "Hacktoberfest tag" $COMMIT_SHA
+        git push origin $TAG_NAME
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
