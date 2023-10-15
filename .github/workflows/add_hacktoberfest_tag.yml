@@ -1,0 +1,22 @@
+name: Auto Label Hacktoberfest
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  auto-label:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Label issues
+      uses: actions/github-script@v5
+      with:
+        script: |
+          github.rest.issues.addLabels({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            issue_number: context.issue.number,
+            labels: ['hacktoberfest']
+          })
+        github-token: ${{secrets.GITHUB_TOKEN}}
+
