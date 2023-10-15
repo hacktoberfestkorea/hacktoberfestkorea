@@ -39,6 +39,13 @@ Facebook `Hacktoberfest Korea` 그룹과 Discord `Hacktoberfest Korea` 서버에
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://limm-jk.tistory.com/"><img src="https://avatars.githubusercontent.com/u/57378834?v=4" width="100px;" alt=""/><br /><sub><b>Junkyu Lim</b></sub></a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
