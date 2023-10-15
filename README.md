@@ -9,10 +9,10 @@
   <a href="https://discord.gg/BD3V3NC">디스코드 서버</a>
 </div>
 
-[![GitHub stars](https://img.shields.io/github/stars/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/network)
-[![GitHub issues](https://img.shields.io/github/issues/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/issues)
-[![All Contributors](https://img.shields.io/github/all-contributors/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/all-contributors)
+[![GitHub stars](https://img.shields.io/github/stars/hacktoberfestkorea/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/hacktoberfestkorea/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/network)
+[![GitHub issues](https://img.shields.io/github/issues/hacktoberfestkorea/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/issues)
+[![All Contributors](https://img.shields.io/github/all-contributors/hacktoberfestkorea/hacktoberfestkorea)](https://github.com/hacktoberfestkorea/hacktoberfestkorea/all-contributors)
 
 <br />
 
