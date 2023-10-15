@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "AkiaCode",
+      "name": "AkiaCode",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71239005?v=4",
+      "profile": "http://ko-fi.com/catry",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "hacktoberfestkorea",
+  "projectOwner": "hacktoberfestkorea"
+}
