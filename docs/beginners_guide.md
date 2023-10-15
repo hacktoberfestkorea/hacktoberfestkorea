@@ -81,7 +81,7 @@ git push origin 브랜치 이름
 
 이제 풀리퀘스트가 만들어졌습니다. 원본 프로젝트의 관리자가 승인하면 반영됩니다.  
 
-## 끝! {#Done}
+## 끝! {#end}
 혹시 중간에 잘 안되는 부분이 있다면 인터넷 검색을 해보시고, 그래도 안된다면 phg98@naver.com으로 질문해 주세요.  
 이제 첫 풀리퀘스트를 해보셨다면 [이슈페이지](https://github.com/phg98/hacktoberfestkorea/issues)로 가서 다른 적당한 항목이 있는지 확인해 보세요.  
 
@@ -100,12 +100,12 @@ You don't need to know much programming to contribute to this project.
 If you'd like to make your first contribution, follow the steps below. 
 * This document was written in 2023. Please let us know if it needs to be revised 
 
-## Find misspellings, or add links {#오자 찾기, 또는 링크 추가시}
+## Find misspellings, or add links {#find-misspelled-words-or-add-links}
 If you find a typo on the website, open the files in the docs folder.    
 If you want to add a link to your website, click and open the index.md file in the docs folder.    
 Once you've found what you're looking for, you'll need to fork this project to your own account to make the changes.
 
-## Fork to your account {#본인의 계정으로 Fork하기}
+## Fork to your account {#fork-your-account}
 'Fork' is a kind of copying operation.  
 Click the 'Fork' button in the upper right corner.  
 !['fork'버튼](img/fork.png)  
@@ -123,7 +123,7 @@ Open a terminal and clone the URL of this repository to your device.
 git clone "repository name"
 ```
 
-## Create a branch {#브랜치 생성하기}
+## Create a branch {#create-branch}
 Navigate to the repository directory you copied to your computer.
 
 ```bash
@@ -140,7 +140,7 @@ Example:
 git checkout -b add-readme-file
 ```
 
-## To modify the content {#내용 수정하기}
+## To modify the content {#to-modify-the-content}
 
 In the forked repository, find the file you want to modify and click it. 
 When the file content is displayed, click the pencil icon in the top right corner to modify it.  
@@ -169,7 +169,7 @@ git commit -m "Update Readme.md"
 git push origin branch name
 ```
 
-## Create a pull request {#풀리퀘스트 만들기}
+## Create a pull request {#create-pull-request}
 Click on the 'Pull Requests' tab.  
 ![pr](img/pr.png)  
 
@@ -181,7 +181,7 @@ Click the 'New pull request' button.
 A pull request has now been created. Once it's approved by the admin of the original project, it will be reflected.  
 
 
-## Done! {#끝}
+## Done! {#end}
 If you get stuck somewhere along the way, try googling it, and if that doesn't work, ask phg98@naver.com으로 questions.  
 Now that you've made your first pull request, head over to the [이슈페이지](https://github.com/phg98/hacktoberfestkorea/issues) and see if there are any other suitable ones.  
 
