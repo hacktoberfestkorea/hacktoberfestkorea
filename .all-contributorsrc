@@ -3,7 +3,9 @@
   "projectOwner": "hacktoberfestkorea",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
@@ -16,5 +18,17 @@
       "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
     }
   },
-  "contributors": []
+  "contributors": [
+    {
+      "login": "Limm-jk",
+      "name": "Junkyu Lim",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57378834?v=4",
+      "profile": "https://limm-jk.tistory.com/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular"
 }
