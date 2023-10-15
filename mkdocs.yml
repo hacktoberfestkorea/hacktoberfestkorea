@@ -19,7 +19,6 @@ extra_javascript:
 nav:
   - Home: index.md
   - 행동 규칙 : Hacktoberfest_code_of_conduct.md
-  - 왕초보자용 가이드: super_beginners_guide.md
   - 초보자용 가이드: beginners_guide.md
   - 작업환경 구성 방법: build.md
   - 자주 묻는 질문: faq.md
