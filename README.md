@@ -12,6 +12,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/network)
 [![GitHub issues](https://img.shields.io/github/issues/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/issues)
+[![All Contributors](https://img.shields.io/github/all-contributors/phg98/hacktoberfestkorea)](https://github.com/phg98/hacktoberfestkorea/all-contributors)
 
 <br />
 
