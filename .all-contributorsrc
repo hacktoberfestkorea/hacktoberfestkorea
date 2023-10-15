@@ -1,0 +1,26 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "jehunseo",
+      "name": "jehunseo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31786318?v=4",
+      "profile": "https://jehunseo.tistory.com/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "hacktoberfestkorea",
+  "projectOwner": "hacktoberfestkorea"
+}
