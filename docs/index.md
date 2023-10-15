@@ -24,7 +24,7 @@
 
 - DigitalOcean에서 주관하는 오픈소스 소프트웨어 행사로서 올해로 10회째인 행사입니다.
 - 10월 한달동안 오픈소스 저장소에 기여를 하면 **여러분의 이름으로** 나무를 심을수 있습니다.
-- 그외에도 [다양한 이벤트](https://hacktoberfest-swag.com)들이 진행됩니다.
+- 그 외에도 [다양한 이벤트](https://hacktoberfest-swag.com)들이 진행됩니다.
 
 ## 행사 규칙 {#rules-of-events}
 
@@ -41,7 +41,7 @@
 
 ## 이전 행사 참여 후기 {#review-of-previous-event-participation}
 
-이전에 참여했던 분들중 후기를 쓰셨던 분들은 아래에 링크해 주시면 새로운 사람들이 둘러보는데 도움이 되겠습니다.
+이전에 참여했던 분들 중 후기를 쓰셨던 분들은 아래에 링크해 주시면 새로운 사람들이 둘러보는데 도움이 되겠습니다.
 
 2022년 후기
 
@@ -85,7 +85,7 @@
 - [reading_books_record_repository](https://github.com/saseungmin/reading_books_record_repository): 책을 읽고 정리한 Repository이고, [Summary book 웹사이트](https://saseungmin.github.io/reading_books_record_repository/)로 되어있습니다. 오탈자를 수정하지 않아 오탈자가 매우 많습니다. 초보자도 쉽게 오탈자를 찾아 수정하시고 기여할 수 있습니다. 기여 방법은 [여기](https://github.com/saseungmin/reading_books_record_repository#-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98-%EB%B0%A9%EB%B2%95)를 참고해주세요. (난이도: 하)
 - [Hacktoberfest Badge](https://github.com/phg98/hacktoberfest-badge): 핵토버페스트 PR을 몇개 올렸는지를 표시해주는 깃헙 프로필용 배지를 제공합니다 (난이도: 중하)
 - [Next.js Starter](https://github.com/DavidYang2149/nextjs-starter) : Next.js에 테스트 도구를 추가한 보일러 플레이트입니다. 타입스크립트를 기본으로 하고 테스트를 위한 Jest, Testing Library 및 Cypress가 포함되어 있습니다. (난이도: 중하)
-- _저장소를 운영하시는 분들중에 참여하고자 하시는 분들은 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 저장소에 ''hacktoberfest'라는 topic을 꼭 넣어주시구요. 응원합니다!_
+- _저장소를 운영하시는 분들 중에 참여하고자 하시는 분들은 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 저장소에 ''hacktoberfest'라는 topic을 꼭 넣어주시구요. 응원합니다!_
 
 [2021년 핵토버페스트에 참가했던 한글 프로젝트 링크](https://phg98.github.io/hacktoberfestkorea2021/#hangul-project)
 [2020년 핵토버페스트에 참가했던 한글 프로젝트 링크](https://phg98.github.io/hacktoberfestkorea2020/#hangul-project)
