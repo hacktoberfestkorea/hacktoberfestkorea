@@ -43,7 +43,3 @@ Facebook `Hacktoberfest Korea` 그룹과 Discord `Hacktoberfest Korea` 서버에
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-
-
-
