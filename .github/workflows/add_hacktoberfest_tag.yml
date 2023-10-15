@@ -1,21 +1,22 @@
-name: Auto Add Hacktoberfest Tag
+name: Auto Label Hacktoberfest
+
 on:
-  pull_request:
-    types:
-      - opened
+  issues:
+    types: [opened]
 
 jobs:
-  add_hacktoberfest_tag:
+  auto-label:
     runs-on: ubuntu-latest
     steps:
-    - name: Check Out Repository
-      uses: actions/checkout@v2
+    - name: Label issues
+      uses: actions/github-script@v5
+      with:
+        script: |
+          github.rest.issues.addLabels({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            issue_number: context.issue.number,
+            labels: ['hacktoberfest']
+          })
+        github-token: ${{secrets.GITHUB_TOKEN}}
 
-    - name: Add Hacktoberfest Tag
-      run: |
-        TAG_NAME="hacktoberfest"
-        COMMIT_SHA=$(git rev-parse HEAD)
-        git tag -a $TAG_NAME -m "Hacktoberfest tag" $COMMIT_SHA
-        git push origin $TAG_NAME
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
