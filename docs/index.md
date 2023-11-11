@@ -43,6 +43,10 @@
 
 이전에 참여했던 분들 중 후기를 쓰셨던 분들은 아래에 링크해 주시면 새로운 사람들이 둘러보는데 도움이 되겠습니다.
 
+2023년 후기
+
+- '생활밀착형 개발자 밤팔이 블로그'의 [핵토버페스트 Hacktoberfest 2023 참가 후기](https://blog.naver.com/hyeonjun7/223261713829)
+
 2022년 후기
 
 - '코딩과 나 블로그'의 [핵토버페스트 Hacktoberfest 2022 참가 후기](https://bananajeong.tistory.com/730)
