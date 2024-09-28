@@ -1,5 +1,5 @@
-site_name: Hacktoberfest Korea 2023
-copyright: Hacktoberfest Kora 2023
+site_name: Hacktoberfest Korea 2024
+copyright: Hacktoberfest Korea 2024
 site_url: 'https://hacktoberfestkorea.com/'
 
 theme:
@@ -22,7 +22,7 @@ nav:
   - 초보자용 가이드: beginners_guide.md
   - 작업환경 구성 방법: build.md
   - 자주 묻는 질문: faq.md
-  - 2022년 자료 : https://2022.hacktoberfestkorea.com
+  - 2023년 자료 : https://2023.hacktoberfestkorea.com
 
 markdown_extensions:
   - attr_list
