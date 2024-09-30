@@ -1,5 +1,4 @@
 ![Hacktoberfest Logo](assets/horizontal_beige.png)
-**PRESENTED BY**
 
 [![GitHub stars](https://img.shields.io/github/stars/hacktoberfestkorea/hacktoberfestkorea)](https://github.com/hacktoberfestkorea/hacktoberfestkorea/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/hacktoberfestkorea/hacktoberfestkorea)](https://github.com/hacktoberfestkorea/hacktoberfestkorea/network)
@@ -9,7 +8,7 @@
   <h1> Hacktoberfest는 매년 10월에 진행되는 글로벌 오픈소스 행사입니다! </h1>
   <p> 이 사이트는 한국 개발자들을 위한 <b>비공식(Unofficial)</b> 사이트 입니다. </p>
   <p> 자세한 내용은 공식 홈페이지를 참고하세요.</p>
-  <a target="_blank" id="button" class="md-button md-button--primary" href="https://hacktoberfest.com"><img class="image" src="assets/hf10_icon_fcl_rgb.png">공식 홈페이지로 가기</a>
+  <a target="_blank" id="button" class="md-button md-button--primary" href="https://hacktoberfest.com"><img class="image" src="assets/vertical_beige.png">공식 홈페이지로 가기</a>
 </center>
 
 <center>
@@ -29,6 +28,7 @@
 - 작성된 풀리퀘스트에 대해서 **저장소 관리자가 승인하거나 머지**하면 카운트됩니다. 4개의 풀리퀘스트가 카운트되면 기념품을 받을 자격이 됩니다.
 - 올해에는 기념품으로 디지털 배지를 받을 수 있습니다.
 - 2020년도 행사시 일부 참가자들이 스팸 PR을 올려서 문제가 되었습니다. 좋은 취지의 행사를 계속 이어갈 수 있도록 **적절한 풀리퀘스트**를 작성하도록 유의하세요. 만약 저장소 관리자가 당신의 풀리퀘스트를 스팸이나 부적절하다고 신고할 경우 참가자격을 박탈당하게 됩니다. [세부사항 참조](https://hacktoberfest.digitalocean.com/participation/#pr-mr-details)
+- 2023년도부터 규칙이 강화되어 너무 쉬운 PR을 받아주는 저장소들은 카운트에서 제외되었습니다. 본 사이트도 카운트에서 제외되었으니 유의하세요.
 
 ## 로우코드, 노코드 참여 {#low-code-no-code}
 
@@ -53,7 +53,7 @@
 
 ## 한글 프로젝트 {#hangul-project}
 
-- [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) : 본 사이트
+- [Hacktoberfest Korea](https://github.com/phg98/hacktoberfestkorea) : 본 사이트는 카운트에서 제외되었습니다만, 연습하기 좋은 간단한 이슈들이 있습니다. 참고하세요.
 - [한국 WSL 사용자 그룹](https://www.wslhub.com/)
   - [WSL 시작하기](https://github.com/wslhub/wsl-firststep) : WSL을 설치하면서 처음에 하는 일들을 모아놓은 리포지터리입니다. 이곳에 WSL에 관련된 문서를 올려주시면 좋습니다. (난이도: 하)
   - [WSL SDK](https://github.com/wslhub/wsl-sdk-com) : WSL SDK COM 모듈 프로젝트입니다. 닷넷, COM 개발 경험이 있는 분의 컨트리뷰션을 받습니다. (난이도: 상)
@@ -79,6 +79,7 @@
 영어에 두려움이 없으시다면 아래의 초보자용 사이트를 참고하세요.
 [공식홈페이지](https://hacktoberfest.digitalocean.com/)에서 더 많은 프로젝트를 찾을 수 있습니다.
 
+- 아직 찾고 있는 중입니다. 공유해주시면 감사하겠습니다.
 - _좋은 영문 초보자용 프로젝트를 찾으셨나요? 링크해서 공유해주세요! 링크하시려면 [여기](https://github.com/phg98/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요._
 
 ## 현재 참여자 리스트 {#current-participant-list}
