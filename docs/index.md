@@ -41,9 +41,13 @@
 
 2023년 후기
 
-- '코딩과 나 블로그'의 [핵토버페스트 Hacktoberfest 2023 참가 후기](https://bananajeong.tistory.com/730)
-- '생활밀착형 개발자 밤팔이 블로그'의 [[Hacktoberfest] 핵토버페스트 2023](https://blog.naver.com/hyeonjun7/222899862893)
-- 'mirusu400 블로그'의 [Hacktoberfest 2023 참가 후기](https://blog.naver.com/mirusu400/222921057382)
+- '생활밀착형 개발자 밤팔이 블로그'의 [핵토버페스트 Hacktoberfest 2023 참가 후기](https://blog.naver.com/hyeonjun7/223261713829)
+
+2022년 후기
+
+- '코딩과 나 블로그'의 [핵토버페스트 Hacktoberfest 2022 참가 후기](https://bananajeong.tistory.com/730)
+- '생활밀착형 개발자 밤팔이 블로그'의 [[Hacktoberfest] 핵토버페스트 2022](https://blog.naver.com/hyeonjun7/222899862893)
+- 'mirusu400 블로그'의 [Hacktoberfest 2022 참가 후기](https://blog.naver.com/mirusu400/222921057382)
 
 2021년 후기
 
