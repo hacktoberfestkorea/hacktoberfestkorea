@@ -1,7 +1,7 @@
 <div align="center">
   <img src="docs/assets/hf10_horz_fcl_rgb.png"/>
   <h1>
-    Hacktoberfest Korea 2023
+    Hacktoberfest Korea 2026
   </h1>
   <a href="https://hacktoberfest.com/">공식 웹사이트</a> •
   <a href="https://hacktoberfestkorea.com/">비공식 웹사이트</a> •
