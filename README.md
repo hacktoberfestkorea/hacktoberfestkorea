@@ -25,7 +25,7 @@
 
 ## 2026년 오프라인 행사
 올해 10월 중 서울에서 MLH 공식 Fest **Hacktoberfest Seoul 2026**(오프라인, 무료)을 엽니다.\
-날짜, 장소, 참가 신청 링크는 [홈페이지](https://hacktoberfestkorea.com/#hacktoberfest-seoul-2026)에서 확정되는 대로 안내합니다.\
+자세한 내용은 [홈페이지](https://hacktoberfestkorea.com/#hacktoberfest-seoul-2026)를 참고하세요.\
 준비 과정은 [hacktoberfest-korea-2026](https://github.com/soulee-dev/hacktoberfest-korea-2026) 저장소에서 공개적으로 진행합니다.
 
 ## 운영진
