@@ -1,7 +1,7 @@
 <div align="center">
   <img src="docs/assets/hf10_horz_fcl_rgb.png"/>
   <h1>
-    Hacktoberfest Korea 2023
+    Hacktoberfest Korea 2026
   </h1>
   <a href="https://hacktoberfest.com/">공식 웹사이트</a> •
   <a href="https://hacktoberfestkorea.com/">비공식 웹사이트</a> •
@@ -22,6 +22,18 @@
 한국어로 Hacktoberfest를 소개하고 정보를 나누는 사이트입니다.\
 가급적 초보자 분들의 참여를 유도하고자 합니다.\
 개발자 분들의 많은 참여를 부탁드립니다.
+
+## 2026년 오프라인 행사
+올해 10월 중 서울에서 MLH 공식 Fest **Hacktoberfest Seoul 2026**(오프라인, 무료)을 엽니다.\
+자세한 내용은 [홈페이지](https://hacktoberfestkorea.com/#hacktoberfest-seoul-2026)를 참고하세요.\
+준비 과정은 [hacktoberfest-korea-2026](https://github.com/soulee-dev/hacktoberfest-korea-2026) 저장소에서 공개적으로 진행합니다.
+
+## 운영진
+| 이름 | GitHub | 역할 |
+|---|---|---|
+| 이소울 (Soul Lee) | [@soulee-dev](https://github.com/soulee-dev) | Hacktoberfest Seoul 2026 총괄, 장소 섭외, 사이트 운영 |
+| 가연 (Gayeon) | [@silano08](https://github.com/silano08) | 스폰서·굿즈 협찬, 연사와 멘토 섭외 |
+| 박형근 | [@phg98](https://github.com/phg98) | Hacktoberfest Korea 사이트 창립자 (2020~) |
 
 ## 참고 가이드
 풀 리퀘스트(Pull Request)를 만드는데 익숙하지 않은 초보자분은 아래 가이드를 보시면 도움이 됩니다.
