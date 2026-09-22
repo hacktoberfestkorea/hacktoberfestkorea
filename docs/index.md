@@ -49,7 +49,7 @@
 | 참가비 | 무료 |
 | 참가 신청 | 준비 중 |
 
-- 준비 과정은 [Hacktoberfest Seoul 2026 저장소](https://github.com/soulee-dev/hacktoberfest-korea-2026)에서 공개적으로 진행합니다. 연사, 멘토, 스폰서로 함께하고 싶으시면 저장소 이슈나 아래 디스코드로 연락해 주세요.
+- 연사, 멘토, 스폰서로 함께하고 싶으시면 [디스코드](https://discord.com/invite/BD3V3NC)로 연락해 주세요.
 - 핸즈온에 참여하려면 GitHub 계정과 Git 설치가 필요합니다. [초보자용 가이드](beginners_guide.md)와 [작업환경 구성 방법](build.md)을 미리 읽어 오시면 좋습니다.
 - 다른 지역의 Fest는 공식 홈페이지의 [Find a Fest](https://hacktoberfest.com/fests/)에서 찾을 수 있습니다.
 
@@ -121,14 +121,13 @@ Hacktoberfest Korea 사이트와 Hacktoberfest Seoul 2026 오프라인 행사를
 | 가연 (Gayeon) | [@silano08](https://github.com/silano08) | 스폰서·굿즈 협찬, 연사와 멘토 섭외 |
 | 박형근 | [@phg98](https://github.com/phg98) | Hacktoberfest Korea 사이트 창립자 (2020~) |
 
-- 문의는 [디스코드](https://discord.com/invite/BD3V3NC) 또는 [준비 저장소 이슈](https://github.com/soulee-dev/hacktoberfest-korea-2026/issues)로 남겨 주세요.
+- 문의는 [디스코드](https://discord.com/invite/BD3V3NC)로 남겨 주세요.
 - 연사, 핸즈온 멘토, 스폰서, 자원봉사로 함께하실 분을 찾고 있습니다.
 
 ## 관련 링크 {#associated-link}
 
 - 작년 내용을 보시려면 [2024년 자료](https://github.com/hacktoberfestkorea/hacktoberfestkorea/tree/2024)를 참고하세요. 2023년 자료는 [2023 Hacktoberfest Korea Unofficial](https://2023.hacktoberfestkorea.com)에 있습니다.
 - 이 사이트의 Github 저장소 : [Hacktoberfest Korea](https://github.com/hacktoberfestkorea/hacktoberfestkorea)
-- Hacktoberfest Seoul 2026 준비 저장소 : [hacktoberfest-korea-2026](https://github.com/soulee-dev/hacktoberfest-korea-2026)
 - 페이스북 : [Hacktoberfest Korea Facebook](https://www.facebook.com/groups/788404381916128/)
 - 디스코드 : [Hacktoberfest Korea Discord](https://discord.com/invite/BD3V3NC)
 - 공식 주최 안내 : [Host a Fest](https://hacktoberfest.com/host/), [MLH Organizer Guide](https://mlh.gitbook.io/mlh-hacktoberfest-organizer-guide)
