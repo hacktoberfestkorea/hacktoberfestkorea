@@ -11,6 +11,9 @@
   <a target="_blank" id="button" class="md-button md-button--primary" href="https://hacktoberfest.com"><img class="image" src="assets/vertical_beige.png">공식 홈페이지로 가기</a>
 </center>
 
+!!! info "2026년 10월, 서울에서 오프라인 행사가 열립니다"
+    올해 10월 중 서울에서 MLH 공식 Fest **Hacktoberfest Seoul 2026**(오프라인, 무료)을 엽니다. 오픈소스 첫 기여를 함께 시작하는 반나절 행사입니다. 날짜와 장소, 참가 신청 링크는 확정되는 대로 [아래 안내](#hacktoberfest-seoul-2026)에 갱신됩니다.
+
 ## 핵토버페스트(Hacktoberfest)란?
 
 - 2014년에 시작되어 올해로 13회째를 맞는 글로벌 오픈소스 행사입니다.
@@ -107,6 +110,19 @@
 ## 현재 참여자 리스트 {#current-participant-list}
 
 - 참여하시는 분들은 참여의사를 표시한 블로그, 저장소, 홈페이지 등을 링크해 주세요. 링크하시려면 [여기](https://github.com/hacktoberfestkorea/hacktoberfestkorea/edit/master/docs/index.md)를 클릭하세요. 5분이면 됩니다!
+
+## 운영진 {#organizers}
+
+Hacktoberfest Korea 사이트와 Hacktoberfest Seoul 2026 오프라인 행사를 준비하는 사람들입니다.
+
+| 이름 | GitHub | 역할 |
+|---|---|---|
+| 이소울 (Soul Lee) | [@soulee-dev](https://github.com/soulee-dev) | Hacktoberfest Seoul 2026 총괄, 장소 섭외, 사이트 운영 |
+| 가연 (Gayeon) | [@silano08](https://github.com/silano08) | 스폰서·굿즈 협찬, 연사와 멘토 섭외 |
+| 박형근 | [@phg98](https://github.com/phg98) | Hacktoberfest Korea 사이트 창립자 (2020~) |
+
+- 문의는 [디스코드](https://discord.com/invite/BD3V3NC) 또는 [준비 저장소 이슈](https://github.com/soulee-dev/hacktoberfest-korea-2026/issues)로 남겨 주세요.
+- 연사, 핸즈온 멘토, 스폰서, 자원봉사로 함께하실 분을 찾고 있습니다.
 
 ## 관련 링크 {#associated-link}
 
