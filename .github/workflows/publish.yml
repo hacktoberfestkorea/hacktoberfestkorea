@@ -2,6 +2,8 @@ on:
   pull_request:
     types:
       - opened
+      - reopened
+      - synchronize
 
 jobs:
   publish:
@@ -14,10 +16,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: 98c6bf72a6de9a710c59c50c56db8299
-          projectName: hacktoberfestkorea
-          directory: .
+          command: pages deploy . --project-name=hacktoberfestkorea --branch=${{ github.head_ref }}
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
