@@ -47,7 +47,7 @@
 | 규모 | 50명 내외 |
 | 대상 | 오픈소스 기여를 처음 시작하려는 개발자, 학생, 메인테이너 |
 | 참가비 | 무료 |
-| 참가 신청 | 준비 중 |
+| 참가 신청 | [MLH 이벤트 페이지](https://events.mlh.com/events/15353-hacktoberfest-meetup-seoul-x-hacktoberfest-korea) |
 
 - 연사, 멘토, 스폰서로 함께하고 싶으시면 [디스코드](https://discord.com/invite/BD3V3NC)로 연락해 주세요.
 - 핸즈온에 참여하려면 GitHub 계정과 Git 설치가 필요합니다. [초보자용 가이드](beginners_guide.md)와 [작업환경 구성 방법](build.md)을 미리 읽어 오시면 좋습니다.
