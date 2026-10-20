@@ -12,7 +12,7 @@
 </center>
 
 !!! info "2026년 10월, 서울에서 오프라인 행사가 열립니다"
-    10월 31일(토) 서울 팀스파르타에서 MLH 공식 Fest **Hacktoberfest Seoul 2026**(오프라인, 무료)을 엽니다. 오픈소스 첫 기여를 함께 시작하는 반나절 행사입니다. 자세한 내용은 [아래 안내](#hacktoberfest-seoul-2026)를 참고하세요.
+    10월 31일(토) 12:30부터 서울 팀스파르타에서 MLH 공식 Fest **Hacktoberfest Seoul 2026**(오프라인, 무료)을 엽니다. 오픈소스 첫 기여를 함께 시작하는 반나절 행사입니다. 자세한 내용은 [아래 안내](#hacktoberfest-seoul-2026)를 참고하세요.
 
 ## 핵토버페스트(Hacktoberfest)란?
 
@@ -41,16 +41,62 @@
 
 | 항목 | 내용 |
 |---|---|
-| 일시 | 2026년 10월 31일(토) 13:00 ~ 18:00 (등록은 13:00부터) |
-| 장소 | 팀스파르타 (서울) |
+| 일시 | 2026년 10월 31일(토) 12:30 등록 / 13:10 오프닝 ~ 18:00 |
+| 장소 | 팀스파르타 (서울특별시 강남구 테헤란로 311, 아남타워 3층) |
 | 형식 | Meet Up: 발표 세션, 첫 PR 만들기 핸즈온, 네트워킹 |
 | 규모 | 50명 내외 |
 | 대상 | 오픈소스 기여를 처음 시작하려는 개발자, 학생, 메인테이너 |
 | 참가비 | 무료 |
 | 참가 신청 | [MLH 이벤트 페이지](https://events.mlh.com/events/15353-hacktoberfest-meetup-seoul-x-hacktoberfest-korea) |
 
-- 연사, 멘토, 스폰서로 함께하고 싶으시면 [디스코드](https://discord.com/invite/BD3V3NC)로 연락해 주세요.
-- 핸즈온에 참여하려면 GitHub 계정과 Git 설치가 필요합니다. [초보자용 가이드](beginners_guide.md)와 [작업환경 구성 방법](build.md)을 미리 읽어 오시면 좋습니다.
+![Hacktoberfest Seoul 2026 포스터](assets/seoul-2026-poster.png)
+
+### 발표 {#seoul-2026-talks}
+
+| 세션 | 제목 | 연사 |
+|---|---|---|
+| 발표 1 | PR을 넘어 스킬로: 식탁보가 설계하는 AI 시대의 오픈소스 기여 | 남정현 (닷넷데브 커뮤니티 운영진) |
+| 발표 2 | 바닥부터 하늘까지, AI 시대의 오픈소스 기반 개발 프로세스 구축기 | 오정민 (데브파이브 대표이사/연구소장) |
+| 라이트닝 토크 | 오픈소스는 정말 커리어에 도움이 될까? | 이용재 (SNOW Web FE Engineer, Apache Zeppelin Committer) |
+
+### 핸즈온 프로젝트 {#seoul-2026-hands-on}
+
+관심 있는 프로젝트를 골라 멘토와 함께 첫 PR을 만듭니다.
+
+| 프로젝트 | 멘토 | 내용 |
+|---|---|---|
+| [Feature-Sliced Design](https://github.com/feature-sliced) | 김민수 | 프런트엔드 아키텍처 방법론의 공식 문서와 린트 도구(Steiger) 기여 |
+| [react-hook-form](https://github.com/react-hook-form/react-hook-form) | 전형호 | TypeScript 폼 라이브러리의 코드와 이슈를 읽고 작은 개선점 찾기 |
+| [Chromium](https://github.com/chromium/chromium) | 조성곤 | 브라우저 프로젝트에 문서 기여로 참여하기 |
+
+### 타임테이블 {#seoul-2026-timetable}
+
+| 시간 | 내용 |
+|---|---|
+| 12:30 ~ 13:10 | 등록 |
+| 13:10 ~ 13:30 | 오프닝 · Hacktoberfest 소개 |
+| 13:30 ~ 13:50 | 발표 1 |
+| 13:50 ~ 14:10 | 발표 2 |
+| 14:10 ~ 14:20 | 휴식 |
+| 14:20 ~ 14:40 | 핸즈온 멘토별 프로젝트 소개 |
+| 14:40 ~ 15:00 | 참가자 희망 순위 작성 · 조 편성 및 발표 |
+| 15:00 ~ 16:00 | 핸즈온 1: 첫 PR 만들기 |
+| 16:00 ~ 16:10 | 휴식 |
+| 16:10 ~ 16:30 | 라이트닝 토크 |
+| 16:30 ~ 17:20 | 핸즈온 2: 첫 PR 만들기 |
+| 17:20 ~ 17:45 | 네트워킹 |
+| 17:45 ~ 18:00 | 클로징 · 단체사진 |
+
+### 사전 준비 {#seoul-2026-preparation}
+
+- 노트북과 충전기를 챙겨 주세요.
+- GitHub 계정 로그인, Git 설치, 코드 편집기 설치를 미리 끝내 주세요. [초보자용 가이드](beginners_guide.md)와 [작업환경 구성 방법](build.md)을 미리 읽어 오시면 좋습니다.
+- 관심 있는 저장소를 미리 둘러보고, 프로젝트별 실행 환경을 확인해 주세요.
+- 초보 기여자, 개발자, 학생, 메인테이너 모두 환영합니다. 발표는 한국어로 진행되며, 모든 참가자는 [MLH 행동강령](https://github.com/MLH/mlh-policies/blob/main/code-of-conduct.md)을 따릅니다.
+
+### 문의 {#seoul-2026-contact}
+
+- 행사 문의나 연사, 멘토, 스폰서 참여는 [디스코드](https://discord.com/invite/BD3V3NC)로 연락해 주세요.
 - 다른 지역의 Fest는 공식 홈페이지의 [Find a Fest](https://hacktoberfest.com/fests/)에서 찾을 수 있습니다.
 
 ## 이전 행사 참여 후기 {#review-of-previous-event-participation}
